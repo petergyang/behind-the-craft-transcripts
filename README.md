@@ -1,6 +1,6 @@
 # Behind the Craft — Transcripts
 
-Full transcripts of [Behind the Craft](https://www.youtube.com/@peteryangYT), My YouTube channel where I share practical AI tutorials and interviews for busy people. 116 episodes. Searchable. AI-friendly.
+Full transcripts of [Behind the Craft](https://www.youtube.com/@peteryangYT), my YouTube channel where I share practical AI tutorials and interviews for busy people. 116 episodes. Searchable. AI-friendly.
 
 ## What you can build with this
 
