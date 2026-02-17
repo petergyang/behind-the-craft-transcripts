@@ -1,11 +1,10 @@
 # Behind the Craft — Transcripts
 
-Full transcripts of [Behind the Craft](https://www.youtube.com/@behindthecraft), Peter Yang's YouTube channel where top product leaders, founders, and builders share how they actually work. 116 episodes. Searchable. AI-friendly.
+Full transcripts of [Behind the Craft](https://www.youtube.com/@peteryangYT), My YouTube channel where I share practical AI tutorials and interviews for busy people. 116 episodes. Searchable. AI-friendly.
 
 ## What you can build with this
 
 - **AI assistant** — Drop into ChatGPT, Claude, or NotebookLM to Q&A 116 episodes of product and AI advice
-- **Search app** — Structured frontmatter makes it easy to build semantic search or RAG pipelines
 - **Content** — Find quotes, compile insights by topic, generate summaries for newsletters or social
 - **Research** — Browse the [topic index](index/README.md) for 22 topics like [AI](index/ai.md), [product management](index/product-management.md), [career growth](index/career-growth.md), [startups](index/startups.md)
 
@@ -27,7 +26,8 @@ keywords:
 ---
 ```
 
-**Guests include:** Claire Vo (LaunchDarkly), Yuhki Yamashita (Figma), Scott Belsky (Adobe), Tomer Cohen (LinkedIn), Aravind Srinivas (Perplexity), Amjad Masad (Replit), Ami Vora (Anthropic), and 100+ more.
+**Interview guests include:** Peter Steinberger (OpenClaw), Amjad Masad (Replit), Ami Vora (Anthropic), and 100+ more.
+**Personal tutorials include:** Claude Code, OpenClaw, Google AI Studio, and more.
 
 ## Quick start
 
@@ -46,3 +46,5 @@ Or point your favorite AI tool at the `transcripts/` folder.
 python3 scripts/add_frontmatter.py   # add frontmatter to new episodes
 python3 scripts/build-index.py       # rebuild topic index
 ```
+
+
