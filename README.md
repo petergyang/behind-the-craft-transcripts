@@ -40,13 +40,11 @@ grep -rl "guest: Claire Vo" transcripts/   # search by guest
 
 Or point your favorite AI tool at the `transcripts/` folder.
 
-## Auto-updates
+## Staying up to date
 
-New episodes are fetched automatically every Sunday at noon PST via [GitHub Actions](.github/workflows/update-transcripts.yml). The workflow pulls transcripts from YouTube, adds frontmatter, and rebuilds the topic index.
+New episodes are added automatically every Sunday via GitHub Actions — no manual updates needed.
 
-You can also trigger it manually from the [Actions tab](../../actions/workflows/update-transcripts.yml).
-
-## Manual maintenance
+## Maintenance
 
 ```bash
 python3 scripts/fetch_new_episodes.py  # fetch new episodes from YouTube
