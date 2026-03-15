@@ -1,10 +1,10 @@
 # Behind the Craft — Transcripts
 
-Full transcripts of [Behind the Craft](https://www.youtube.com/@peteryangYT), my YouTube channel where I share practical AI tutorials and interviews for busy people. 116 episodes. Searchable. AI-friendly.
+Full transcripts of [Behind the Craft](https://www.youtube.com/@peteryangYT), my YouTube channel where I share practical AI tutorials and interviews for busy people. 122 episodes and counting. Searchable. AI-friendly. Auto-updated every Sunday.
 
 ## What you can build with this
 
-- **AI assistant** — Drop into ChatGPT, Claude, or NotebookLM to Q&A 116 episodes of product and AI advice
+- **AI assistant** — Drop into ChatGPT, Claude, or NotebookLM to Q&A 122+ episodes of product and AI advice
 - **Content** — Find quotes, compile insights by topic, generate summaries for newsletters or social
 - **Research** — Browse the [topic index](index/README.md) for 22 topics like [AI](index/ai.md), [product management](index/product-management.md), [career growth](index/career-growth.md), [startups](index/startups.md)
 
@@ -40,11 +40,18 @@ grep -rl "guest: Claire Vo" transcripts/   # search by guest
 
 Or point your favorite AI tool at the `transcripts/` folder.
 
-## Maintenance
+## Auto-updates
+
+New episodes are fetched automatically every Sunday at noon PST via [GitHub Actions](.github/workflows/update-transcripts.yml). The workflow pulls transcripts from YouTube, adds frontmatter, and rebuilds the topic index.
+
+You can also trigger it manually from the [Actions tab](../../actions/workflows/update-transcripts.yml).
+
+## Manual maintenance
 
 ```bash
-python3 scripts/add_frontmatter.py   # add frontmatter to new episodes
-python3 scripts/build-index.py       # rebuild topic index
+python3 scripts/fetch_new_episodes.py  # fetch new episodes from YouTube
+python3 scripts/add_frontmatter.py     # add frontmatter to new episodes
+python3 scripts/build-index.py         # rebuild topic index
 ```
 
 
