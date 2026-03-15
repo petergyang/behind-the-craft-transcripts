@@ -1,6 +1,6 @@
 # Culture
 
-30 episodes
+32 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -34,3 +34,5 @@
 | 109 | [Master Google AI Studio in 40 Minutes | Logan Kilpatrick](../transcripts/2026/109-master-google-ai-studio-in-40-minutes-logan-kilpatrick.md) | Logan Kilpatrick | 2026-01-25 |
 | 112 | [Master OpenClaw in 30 Minutes (5 Real Use Cases + Setup + Memory)](../transcripts/2026/112-master-openclaw-in-30-minutes-5-real-use-cases-setup-memory.md) | Peter Yang | 2026-02-04 |
 | 114 | [How to Make Claude Code Better Every Time You Use It (50 Min Tutorial) | Kieran Klaassen](../transcripts/2026/114-how-to-make-claude-code-better-every-time-you-use-it-50-min-tutorial-kieran-klaassen.md) | Kieran Klaassen | 2026-02-08 |
+| 119 | [Full Tutorial: Connect Claude Code to Google, Slack, and Reddit in 40 Min (Skills + MCPs)](../transcripts/2026/119-full-tutorial-connect-claude-code-to-google-slack-and-reddit-in-40-min-skills.md) | Peter Yang | 2026-03-01 |
+| 122 | [Inside Ramp, the $32B Company Where AI Agents Run Everything | Geoff Charles](../transcripts/2026/122-inside-ramp-the-32b-company-where-ai-agents-run-everything-geoff-charles.md) | Geoff Charles | 2026-03-15 |

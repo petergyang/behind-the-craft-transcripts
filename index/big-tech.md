@@ -1,6 +1,6 @@
 # Big Tech
 
-24 episodes
+25 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -28,3 +28,4 @@
 | 087 | [Inside Gemini and NotebookLM: How Google is Shipping Non-Stop | Josh Woodward](../transcripts/2025/087-inside-gemini-and-notebooklm-how-google-is-shipping-non-stop-josh-woodward.md) | Josh Woodward | 2025-10-12 |
 | 101 | [Full Tutorial: Create Beautiful Infographics that Match Your Brand in 15 Min (Nano Banana)](../transcripts/2025/101-full-tutorial-create-beautiful-infographics-that-match-your-brand-in-15-min-nano-banana.md) | Peter Yang | 2025-12-10 |
 | 105 | [Full Course: The AI Stack We Actually Use for Prototyping, Strategy, and Personal OS (2026)](../transcripts/2026/105-full-course-the-ai-stack-we-actually-use-for-prototyping-strategy-and-personal-os-2026.md) | Peter Yang | 2026-01-11 |
+| 117 | [Gemini 3.1 + New AI Studio Is Here: Full Prototyping Tutorial in 18 Minutes](../transcripts/2026/117-gemini-3-1-new-ai-studio-is-here-full-prototyping-tutorial-in-18-minutes.md) | Peter Yang | 2026-02-19 |

@@ -1,6 +1,6 @@
 # AI Tools
 
-36 episodes
+41 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -40,3 +40,8 @@
 | 109 | [Master Google AI Studio in 40 Minutes | Logan Kilpatrick](../transcripts/2026/109-master-google-ai-studio-in-40-minutes-logan-kilpatrick.md) | Logan Kilpatrick | 2026-01-25 |
 | 114 | [How to Make Claude Code Better Every Time You Use It (50 Min Tutorial) | Kieran Klaassen](../transcripts/2026/114-how-to-make-claude-code-better-every-time-you-use-it-50-min-tutorial-kieran-klaassen.md) | Kieran Klaassen | 2026-02-08 |
 | 115 | [Give Me 20 Minutes, I'll Make You AI Native](../transcripts/2026/115-give-me-20-minutes-ill-make-you-ai-native.md) | Peter Yang | 2026-02-11 |
+| 117 | [Gemini 3.1 + New AI Studio Is Here: Full Prototyping Tutorial in 18 Minutes](../transcripts/2026/117-gemini-3-1-new-ai-studio-is-here-full-prototyping-tutorial-in-18-minutes.md) | Peter Yang | 2026-02-19 |
+| 118 | [Full Tutorial: Use OpenClaw to Build a Business That Runs Itself in 35 Min | Nat Eliason](../transcripts/2026/118-full-tutorial-use-openclaw-to-build-a-business-that-runs-itself-in-35-min-nat.md) | Nat Eliason | 2026-02-22 |
+| 119 | [Full Tutorial: Connect Claude Code to Google, Slack, and Reddit in 40 Min (Skills + MCPs)](../transcripts/2026/119-full-tutorial-connect-claude-code-to-google-slack-and-reddit-in-40-min-skills.md) | Peter Yang | 2026-03-01 |
+| 120 | [I Watched 6 AI Agents Design an App Together And It Blew My Mind | Tom Krcha](../transcripts/2026/120-i-watched-6-ai-agents-design-an-app-together-and-it-blew-my-mind-tom-krcha.md) | Tom Krcha | 2026-03-08 |
+| 121 | [Replit Agent 4 Is Here: Everything You Need to Know](../transcripts/2026/121-replit-agent-4-is-here-everything-you-need-to-know.md) | Peter Yang | 2026-03-11 |

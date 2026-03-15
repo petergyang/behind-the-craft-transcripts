@@ -1,6 +1,6 @@
 # Design
 
-23 episodes
+25 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -27,3 +27,5 @@
 | 106 | [Claude Skills, Clearly Explained in 15 Minutes](../transcripts/2026/106-claude-skills-clearly-explained-in-15-minutes.md) | Peter Yang | 2026-01-14 |
 | 115 | [Give Me 20 Minutes, I'll Make You AI Native](../transcripts/2026/115-give-me-20-minutes-ill-make-you-ai-native.md) | Peter Yang | 2026-02-11 |
 | 116 | [Full Tutorial: The Most Underrated AI Agent for Coding and Product Work | Eno Reyes (Factory)](../transcripts/2026/116-full-tutorial-the-most-underrated-ai-agent-for-coding-and-product-work-eno-reyes-factory.md) | Eno Reyes | 2026-02-15 |
+| 117 | [Gemini 3.1 + New AI Studio Is Here: Full Prototyping Tutorial in 18 Minutes](../transcripts/2026/117-gemini-3-1-new-ai-studio-is-here-full-prototyping-tutorial-in-18-minutes.md) | Peter Yang | 2026-02-19 |
+| 120 | [I Watched 6 AI Agents Design an App Together And It Blew My Mind | Tom Krcha](../transcripts/2026/120-i-watched-6-ai-agents-design-an-app-together-and-it-blew-my-mind-tom-krcha.md) | Tom Krcha | 2026-03-08 |
