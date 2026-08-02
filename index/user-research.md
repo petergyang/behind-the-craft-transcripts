@@ -1,6 +1,6 @@
 # User Research
 
-10 episodes
+12 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -14,3 +14,5 @@
 | 077 | [Ranking 15 PM Skills: What Survives vs. Gets Disrupted by AI | Nan Yu (Linear)](../transcripts/2025/077-ranking-15-pm-skills-what-survives-vs-gets-disrupted-by-ai-nan-yu-linear.md) | Nan Yu | 2025-08-31 |
 | 078 | [Claude Code Beginner's Tutorial: Build a Movie App in 15 Minutes (2025)](../transcripts/2025/078-claude-code-beginners-tutorial-build-a-movie-app-in-15-minutes-2025.md) | Peter Yang | 2025-09-03 |
 | 103 | [Full Tutorial: Build Your Personal OS with Claude Code in 50 Min | Teresa Torres](../transcripts/2025/103-full-tutorial-build-your-personal-os-with-claude-code-in-50-min-teresa-torres.md) | Teresa Torres | 2025-12-21 |
+| 125 | [Claude Cowork Tutorial from Cowork's Design Lead (40 Min) | Jenny Wen](../transcripts/2026/125-claude-cowork-tutorial-from-coworks-design-lead-40-min-jenny-wen.md) | Jenny Wen | 2026-03-29 |
+| 148 | [Inside Anthropic’s Bet on Claude Agents that Work While You Sleep | Jess Yan](../transcripts/2026/148-inside-anthropics-bet-on-claude-agents-that-work-while-you-sleep-jess-yan.md) | Jess Yan | 2026-06-28 |

@@ -1,6 +1,6 @@
 # Product Management
 
-69 episodes
+79 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -73,3 +73,13 @@
 | 119 | [Full Tutorial: Connect Claude Code to Google, Slack, and Reddit in 40 Min (Skills + MCPs)](../transcripts/2026/119-full-tutorial-connect-claude-code-to-google-slack-and-reddit-in-40-min-skills.md) | Peter Yang | 2026-03-01 |
 | 120 | [I Watched 6 AI Agents Design an App Together And It Blew My Mind | Tom Krcha](../transcripts/2026/120-i-watched-6-ai-agents-design-an-app-together-and-it-blew-my-mind-tom-krcha.md) | Tom Krcha | 2026-03-08 |
 | 122 | [Inside Ramp, the $32B Company Where AI Agents Run Everything | Geoff Charles](../transcripts/2026/122-inside-ramp-the-32b-company-where-ai-agents-run-everything-geoff-charles.md) | Geoff Charles | 2026-03-15 |
+| 123 | [Master Gemini in Google Docs, Sheets & Slides in 18 Min (5 Real Use Cases)](../transcripts/2026/123-master-gemini-in-google-docs-sheets-slides-in-18-min-5-real-use-cases.md) | Peter Yang | 2026-03-18 |
+| 124 | [How to Design and Code with Claude Code and Figma MCP in 50 Min | Felix Lee](../transcripts/2026/124-how-to-design-and-code-with-claude-code-and-figma-mcp-in-50-min-felix-lee.md) | Felix Lee | 2026-03-22 |
+| 126 | [Full Tutorial: Build a Beautiful Mobile App with Claude Code in 16 Minutes](../transcripts/2026/126-full-tutorial-build-a-beautiful-mobile-app-with-claude-code-in-16-minutes.md) | Peter Yang | 2026-04-01 |
+| 128 | [Figma CEO on How to Get Good at Design in the AI Era | Dylan Field](../transcripts/2026/128-figma-ceo-on-how-to-get-good-at-design-in-the-ai-era-dylan-field.md) | Dylan Field | 2026-04-12 |
+| 130 | [How to Build for AI Agents and a Claude Code Second Brain in 25 Min | Ryan Wiggins](../transcripts/2026/130-how-to-build-for-ai-agents-and-a-claude-code-second-brain-in-25-min-ryan-wiggins.md) | Ryan Wiggins | 2026-04-22 |
+| 135 | [Automate Your Life with Claude Code in 40 Minutes | Moritz Kremb](../transcripts/2026/135-automate-your-life-with-claude-code-in-40-minutes-moritz-kremb.md) | Moritz Kremb | 2026-05-10 |
+| 139 | [I Stopped Using PowerPoint After Building This Claude Code Skill (Full Tutorial + 3 Templates)](../transcripts/2026/139-i-stopped-using-powerpoint-after-building-this-claude-code-skill-full-tutorial.md) | Peter Yang | 2026-05-27 |
+| 143 | [I Quit My High Paying Product Job to Bet on Myself](../transcripts/2026/143-i-quit-my-high-paying-product-job-to-bet-on-myself.md) | Peter Yang | 2026-06-10 |
+| 151 | [Inside How OpenAI Uses Codex to Do Product Work | Rohan Varma](../transcripts/2026/151-inside-how-openai-uses-codex-to-do-product-work-rohan-varma.md) | Rohan Varma | 2026-07-05 |
+| 157 | [Full Tutorial: From Idea to App with Claude Design and Claude Code in 25 Minutes](../transcripts/2026/157-full-tutorial-from-idea-to-app-with-claude-design-and-claude-code-in-25-minutes.md) | Peter Yang | 2026-07-29 |

@@ -1,6 +1,6 @@
 # Big Tech
 
-25 episodes
+29 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -29,3 +29,7 @@
 | 101 | [Full Tutorial: Create Beautiful Infographics that Match Your Brand in 15 Min (Nano Banana)](../transcripts/2025/101-full-tutorial-create-beautiful-infographics-that-match-your-brand-in-15-min-nano-banana.md) | Peter Yang | 2025-12-10 |
 | 105 | [Full Course: The AI Stack We Actually Use for Prototyping, Strategy, and Personal OS (2026)](../transcripts/2026/105-full-course-the-ai-stack-we-actually-use-for-prototyping-strategy-and-personal-os-2026.md) | Peter Yang | 2026-01-11 |
 | 117 | [Gemini 3.1 + New AI Studio Is Here: Full Prototyping Tutorial in 18 Minutes](../transcripts/2026/117-gemini-3-1-new-ai-studio-is-here-full-prototyping-tutorial-in-18-minutes.md) | Peter Yang | 2026-02-19 |
+| 133 | [5 Underrated Google AI Tools You Need to Try in 16 Minutes (Pomelli, Stitch, Genie, Flow, and More)](../transcripts/2026/133-5-underrated-google-ai-tools-you-need-to-try-in-16-minutes-pomelli-stitch-genie.md) | Peter Yang | 2026-04-29 |
+| 137 | [My Honest Review of Google's AI Strategy After I/O](../transcripts/2026/137-my-honest-review-of-googles-ai-strategy-after-i-o.md) | Peter Yang | 2026-05-21 |
+| 150 | [I Tested Gemini Spark: What Google’s AI Agent Can Actually Do in 21 Minutes](../transcripts/2026/150-i-tested-gemini-spark-what-googles-ai-agent-can-actually-do-in-21-minutes.md) | Peter Yang | 2026-07-03 |
+| 156 | [ChatGPT Work + Codex Tutorial: My Complete System at OpenAI | Jason Liu](../transcripts/2026/156-chatgpt-work-codex-tutorial-my-complete-system-at-openai-jason-liu.md) | Jason Liu | 2026-07-26 |

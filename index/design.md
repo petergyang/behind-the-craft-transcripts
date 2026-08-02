@@ -1,6 +1,6 @@
 # Design
 
-25 episodes
+34 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -29,3 +29,12 @@
 | 116 | [Full Tutorial: The Most Underrated AI Agent for Coding and Product Work | Eno Reyes (Factory)](../transcripts/2026/116-full-tutorial-the-most-underrated-ai-agent-for-coding-and-product-work-eno-reyes-factory.md) | Eno Reyes | 2026-02-15 |
 | 117 | [Gemini 3.1 + New AI Studio Is Here: Full Prototyping Tutorial in 18 Minutes](../transcripts/2026/117-gemini-3-1-new-ai-studio-is-here-full-prototyping-tutorial-in-18-minutes.md) | Peter Yang | 2026-02-19 |
 | 120 | [I Watched 6 AI Agents Design an App Together And It Blew My Mind | Tom Krcha](../transcripts/2026/120-i-watched-6-ai-agents-design-an-app-together-and-it-blew-my-mind-tom-krcha.md) | Tom Krcha | 2026-03-08 |
+| 124 | [How to Design and Code with Claude Code and Figma MCP in 50 Min | Felix Lee](../transcripts/2026/124-how-to-design-and-code-with-claude-code-and-figma-mcp-in-50-min-felix-lee.md) | Felix Lee | 2026-03-22 |
+| 125 | [Claude Cowork Tutorial from Cowork's Design Lead (40 Min) | Jenny Wen](../transcripts/2026/125-claude-cowork-tutorial-from-coworks-design-lead-40-min-jenny-wen.md) | Jenny Wen | 2026-03-29 |
+| 128 | [Figma CEO on How to Get Good at Design in the AI Era | Dylan Field](../transcripts/2026/128-figma-ceo-on-how-to-get-good-at-design-in-the-ai-era-dylan-field.md) | Dylan Field | 2026-04-12 |
+| 129 | [Claude Design: Everything You Can Build in 16 Minutes (5 Real Use Cases)](../transcripts/2026/129-claude-design-everything-you-can-build-in-16-minutes-5-real-use-cases.md) | Peter Yang | 2026-04-18 |
+| 131 | [GPT 5.5 and ChatGPT Images 2: Everything You Need to Know in 15 Minutes (4 Real Use Cases)](../transcripts/2026/131-gpt-5-5-and-chatgpt-images-2-everything-you-need-to-know-in-15-minutes-4-real.md) | Peter Yang | 2026-04-24 |
+| 133 | [5 Underrated Google AI Tools You Need to Try in 16 Minutes (Pomelli, Stitch, Genie, Flow, and More)](../transcripts/2026/133-5-underrated-google-ai-tools-you-need-to-try-in-16-minutes-pomelli-stitch-genie.md) | Peter Yang | 2026-04-29 |
+| 134 | [Everything You Need to Know About Context Engineering in 40 Minutes | Ravi Mehta](../transcripts/2026/134-everything-you-need-to-know-about-context-engineering-in-40-minutes-ravi-mehta.md) | Ravi Mehta | 2026-05-03 |
+| 142 | [How This Ex-Meta L8 Engineer Ships 40 PRs a Day with AI Agents | Kun Chen](../transcripts/2026/142-how-this-ex-meta-l8-engineer-ships-40-prs-a-day-with-ai-agents-kun-chen.md) | Kun Chen | 2026-06-07 |
+| 157 | [Full Tutorial: From Idea to App with Claude Design and Claude Code in 25 Minutes](../transcripts/2026/157-full-tutorial-from-idea-to-app-with-claude-design-and-claude-code-in-25-minutes.md) | Peter Yang | 2026-07-29 |

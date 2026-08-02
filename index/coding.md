@@ -1,6 +1,6 @@
 # Coding
 
-45 episodes
+65 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -49,3 +49,23 @@
 | 118 | [Full Tutorial: Use OpenClaw to Build a Business That Runs Itself in 35 Min | Nat Eliason](../transcripts/2026/118-full-tutorial-use-openclaw-to-build-a-business-that-runs-itself-in-35-min-nat.md) | Nat Eliason | 2026-02-22 |
 | 120 | [I Watched 6 AI Agents Design an App Together And It Blew My Mind | Tom Krcha](../transcripts/2026/120-i-watched-6-ai-agents-design-an-app-together-and-it-blew-my-mind-tom-krcha.md) | Tom Krcha | 2026-03-08 |
 | 121 | [Replit Agent 4 Is Here: Everything You Need to Know](../transcripts/2026/121-replit-agent-4-is-here-everything-you-need-to-know.md) | Peter Yang | 2026-03-11 |
+| 124 | [How to Design and Code with Claude Code and Figma MCP in 50 Min | Felix Lee](../transcripts/2026/124-how-to-design-and-code-with-claude-code-and-figma-mcp-in-50-min-felix-lee.md) | Felix Lee | 2026-03-22 |
+| 126 | [Full Tutorial: Build a Beautiful Mobile App with Claude Code in 16 Minutes](../transcripts/2026/126-full-tutorial-build-a-beautiful-mobile-app-with-claude-code-in-16-minutes.md) | Peter Yang | 2026-04-01 |
+| 127 | [How OpenAI's Codex Team Builds with Codex (43 Min) | Alex & Romain](../transcripts/2026/127-how-openais-codex-team-builds-with-codex-43-min-alex-romain.md) | Alex & Romain | 2026-04-05 |
+| 131 | [GPT 5.5 and ChatGPT Images 2: Everything You Need to Know in 15 Minutes (4 Real Use Cases)](../transcripts/2026/131-gpt-5-5-and-chatgpt-images-2-everything-you-need-to-know-in-15-minutes-4-real.md) | Peter Yang | 2026-04-24 |
+| 134 | [Everything You Need to Know About Context Engineering in 40 Minutes | Ravi Mehta](../transcripts/2026/134-everything-you-need-to-know-about-context-engineering-in-40-minutes-ravi-mehta.md) | Ravi Mehta | 2026-05-03 |
+| 135 | [Automate Your Life with Claude Code in 40 Minutes | Moritz Kremb](../transcripts/2026/135-automate-your-life-with-claude-code-in-40-minutes-moritz-kremb.md) | Moritz Kremb | 2026-05-10 |
+| 136 | [Inside How Anthropic Is Building the Next Claude | Alex Albert](../transcripts/2026/136-inside-how-anthropic-is-building-the-next-claude-alex-albert.md) | Alex Albert | 2026-05-17 |
+| 137 | [My Honest Review of Google's AI Strategy After I/O](../transcripts/2026/137-my-honest-review-of-googles-ai-strategy-after-i-o.md) | Peter Yang | 2026-05-21 |
+| 139 | [I Stopped Using PowerPoint After Building This Claude Code Skill (Full Tutorial + 3 Templates)](../transcripts/2026/139-i-stopped-using-powerpoint-after-building-this-claude-code-skill-full-tutorial.md) | Peter Yang | 2026-05-27 |
+| 140 | [The Exact AI Skills This Solo Founder Uses to Build 5 Apps at Once | Josh Pigford](../transcripts/2026/140-the-exact-ai-skills-this-solo-founder-uses-to-build-5-apps-at-once-josh-pigford.md) | Josh Pigford | 2026-05-31 |
+| 142 | [How This Ex-Meta L8 Engineer Ships 40 PRs a Day with AI Agents | Kun Chen](../transcripts/2026/142-how-this-ex-meta-l8-engineer-ships-40-prs-a-day-with-ai-agents-kun-chen.md) | Kun Chen | 2026-06-07 |
+| 144 | [How This Non-Technical Founder Mastered Agentic Engineering in 50 Minutes | Matt Van Horn](../transcripts/2026/144-how-this-non-technical-founder-mastered-agentic-engineering-in-50-minutes-matt.md) | Matt Van Horn | 2026-06-14 |
+| 146 | [Full Tutorial: Make Professional Launch Videos for Free with Hyperframes | Bin Liu & Jake Moran](../transcripts/2026/146-full-tutorial-make-professional-launch-videos-for-free-with-hyperframes-bin-liu.md) | Bin Liu & Jake Moran | 2026-06-21 |
+| 147 | [Hermes Full Course: Build Your 24/7 AI Chief of Staff in 45 Minutes](../transcripts/2026/147-hermes-full-course-build-your-24-7-ai-chief-of-staff-in-45-minutes.md) | Peter Yang | 2026-06-24 |
+| 149 | [Claude Fable 5 Is Finally Back: 5 Must-Try Use Cases Before July 12](../transcripts/2026/149-claude-fable-5-is-finally-back-5-must-try-use-cases-before-july-12.md) | Peter Yang | 2026-07-01 |
+| 152 | [GPT-5.6 vs Claude Fable 5: I Tested 6 Real Use Cases (Here’s the Winner)](../transcripts/2026/152-gpt-5-6-vs-claude-fable-5-i-tested-6-real-use-cases-heres-the-winner.md) | Peter Yang | 2026-07-09 |
+| 153 | [How to Build AI Agents That Check Their Own Work | Jared Zoneraich](../transcripts/2026/153-how-to-build-ai-agents-that-check-their-own-work-jared-zoneraich.md) | Jared Zoneraich | 2026-07-12 |
+| 155 | [How I Plan, Build, and Run Loops with Claude Code in 40 Minutes | Thariq Shihipar](../transcripts/2026/155-how-i-plan-build-and-run-loops-with-claude-code-in-40-minutes-thariq-shihipar.md) | Thariq Shihipar | 2026-07-19 |
+| 156 | [ChatGPT Work + Codex Tutorial: My Complete System at OpenAI | Jason Liu](../transcripts/2026/156-chatgpt-work-codex-tutorial-my-complete-system-at-openai-jason-liu.md) | Jason Liu | 2026-07-26 |
+| 158 | [Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra](../transcripts/2026/158-hermes-co-founder-on-building-an-ai-agent-that-improves-itself-karan-malhotra.md) | Karan Malhotra | 2026-08-02 |

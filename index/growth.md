@@ -1,6 +1,6 @@
 # Growth
 
-10 episodes
+12 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -14,3 +14,5 @@
 | 047 | [Inside Suno, the AI Music App You Won't Be Able to Stop Listening To | Mikey Shulman (Suno)](../transcripts/2025/047-inside-suno-the-ai-music-app-you-wont-be-able-to-stop-listening-to-mikey-shulman-suno.md) | Mikey Shulman | 2025-01-26 |
 | 069 | [AI Agents vs Data Analysts: The Truth from Amplitude PM (41 Min Deep Dive) | James Evans](../transcripts/2025/069-ai-agents-vs-data-analysts-the-truth-from-amplitude-pm-41-min-deep-dive-james-evans.md) | James Evans | 2025-07-06 |
 | 111 | [How OpenClaw's Creator Uses AI to Run His Life in 40 Minutes | Peter Steinberger](../transcripts/2026/111-how-openclaws-creator-uses-ai-to-run-his-life-in-40-minutes-peter-steinberger.md) | Peter Steinberger | 2026-02-01 |
+| 132 | [How This Solo AI Founder Bootstrapped 5 Products to 1M+ / Month | Tibo Louis-Lucas](../transcripts/2026/132-how-this-solo-ai-founder-bootstrapped-5-products-to-1m-month-tibo-louis-lucas.md) | Tibo Louis-Lucas | 2026-04-26 |
+| 145 | [How I Turned Codex Into My AI Life Coach in 13 Minutes (5-Step Tutorial)](../transcripts/2026/145-how-i-turned-codex-into-my-ai-life-coach-in-13-minutes-5-step-tutorial.md) | Peter Yang | 2026-06-17 |

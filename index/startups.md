@@ -1,6 +1,6 @@
 # Startups
 
-42 episodes
+52 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -46,3 +46,13 @@
 | 108 | [Full Tutorial: Zero to Shipped Game with Claude Code in 20 Minutes](../transcripts/2026/108-full-tutorial-zero-to-shipped-game-with-claude-code-in-20-minutes.md) | Peter Yang | 2026-01-21 |
 | 110 | [Full Tutorial: Set Up Your 24/7 AI Employee in 20 Minutes (OpenClaw)](../transcripts/2026/110-full-tutorial-set-up-your-247-ai-employee-in-20-minutes-openclaw.md) | Peter Yang | 2026-01-28 |
 | 113 | [Claude Opus 4.6 Is Here: Everything You Need to Know](../transcripts/2026/113-claude-opus-46-is-here-everything-you-need-to-know.md) | Peter Yang | 2026-02-05 |
+| 126 | [Full Tutorial: Build a Beautiful Mobile App with Claude Code in 16 Minutes](../transcripts/2026/126-full-tutorial-build-a-beautiful-mobile-app-with-claude-code-in-16-minutes.md) | Peter Yang | 2026-04-01 |
+| 129 | [Claude Design: Everything You Can Build in 16 Minutes (5 Real Use Cases)](../transcripts/2026/129-claude-design-everything-you-can-build-in-16-minutes-5-real-use-cases.md) | Peter Yang | 2026-04-18 |
+| 130 | [How to Build for AI Agents and a Claude Code Second Brain in 25 Min | Ryan Wiggins](../transcripts/2026/130-how-to-build-for-ai-agents-and-a-claude-code-second-brain-in-25-min-ryan-wiggins.md) | Ryan Wiggins | 2026-04-22 |
+| 132 | [How This Solo AI Founder Bootstrapped 5 Products to 1M+ / Month | Tibo Louis-Lucas](../transcripts/2026/132-how-this-solo-ai-founder-bootstrapped-5-products-to-1m-month-tibo-louis-lucas.md) | Tibo Louis-Lucas | 2026-04-26 |
+| 138 | [How This 5x Founder Runs His Startup Solo With AI Agents (OpenClaw, Codex, Devin) | Ryan Carson](../transcripts/2026/138-how-this-5x-founder-runs-his-startup-solo-with-ai-agents-openclaw-codex-devin.md) | Ryan Carson | 2026-05-24 |
+| 140 | [The Exact AI Skills This Solo Founder Uses to Build 5 Apps at Once | Josh Pigford](../transcripts/2026/140-the-exact-ai-skills-this-solo-founder-uses-to-build-5-apps-at-once-josh-pigford.md) | Josh Pigford | 2026-05-31 |
+| 144 | [How This Non-Technical Founder Mastered Agentic Engineering in 50 Minutes | Matt Van Horn](../transcripts/2026/144-how-this-non-technical-founder-mastered-agentic-engineering-in-50-minutes-matt.md) | Matt Van Horn | 2026-06-14 |
+| 148 | [Inside Anthropic’s Bet on Claude Agents that Work While You Sleep | Jess Yan](../transcripts/2026/148-inside-anthropics-bet-on-claude-agents-that-work-while-you-sleep-jess-yan.md) | Jess Yan | 2026-06-28 |
+| 153 | [How to Build AI Agents That Check Their Own Work | Jared Zoneraich](../transcripts/2026/153-how-to-build-ai-agents-that-check-their-own-work-jared-zoneraich.md) | Jared Zoneraich | 2026-07-12 |
+| 158 | [Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra](../transcripts/2026/158-hermes-co-founder-on-building-an-ai-agent-that-improves-itself-karan-malhotra.md) | Karan Malhotra | 2026-08-02 |

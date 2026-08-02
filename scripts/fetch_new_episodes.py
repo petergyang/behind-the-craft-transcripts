@@ -1,229 +1,297 @@
 #!/usr/bin/env python3
-"""Fetch new Behind the Craft episodes from YouTube.
+"""Sync published Behind the Craft videos and their YouTube transcripts.
 
-Checks the channel RSS feed for new videos, fetches their transcripts,
-and creates properly formatted transcript files. Then runs add_frontmatter.py
-and build-index.py to complete the pipeline.
+The updater uses yt-dlp instead of youtube-transcript-api because YouTube blocks
+transcript requests from GitHub-hosted runners. Run it on Peter's Mac with
+``--cookies-from-browser chrome``. GitHub Actions uses ``--check-only`` so a
+stale archive fails visibly instead of reporting a false success.
 """
 
 from __future__ import annotations
 
+import argparse
+import html
+import json
 import re
 import subprocess
 import sys
-import urllib.request
-import ssl
-import xml.etree.ElementTree as ET
-from datetime import datetime
+import tempfile
 from pathlib import Path
+
+from add_frontmatter import build_frontmatter, extract_guest, extract_keywords
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TRANSCRIPTS_DIR = REPO_ROOT / "transcripts"
 SCRIPTS_DIR = REPO_ROOT / "scripts"
-
-CHANNEL_ID = "UCnpBg7yqNauHtlNSpOl5-cg"
-FEED_URL = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
-
-ATOM_NS = {"atom": "http://www.w3.org/2005/Atom",
-           "yt": "http://www.youtube.com/xml/schemas/2015"}
+README_PATH = REPO_ROOT / "README.md"
+CHANNEL_URL = "https://www.youtube.com/@peteryangYT/videos"
 
 
-def fetch_rss_feed() -> list[dict]:
-    """Fetch and parse YouTube RSS feed. Returns list of video entries."""
-    ctx = ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = ssl.CERT_NONE
+class SyncError(RuntimeError):
+    """Raised when discovery or transcript retrieval fails."""
 
-    req = urllib.request.Request(FEED_URL, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, context=ctx) as resp:
-        xml_data = resp.read()
 
-    root = ET.fromstring(xml_data)
+def run_ytdlp(arguments: list[str]) -> subprocess.CompletedProcess[str]:
+    command = ["yt-dlp", *arguments]
+    try:
+        return subprocess.run(
+            command,
+            cwd=REPO_ROOT,
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except FileNotFoundError as exc:
+        raise SyncError("yt-dlp is required but was not found on PATH") from exc
+    except subprocess.CalledProcessError as exc:
+        detail = (exc.stderr or exc.stdout or str(exc)).strip()
+        raise SyncError(detail) from exc
 
+
+def discover_channel_videos() -> list[dict[str, object]]:
+    """Return long-form videos from the channel's Videos tab, newest first."""
+    result = run_ytdlp(["--flat-playlist", "--dump-single-json", CHANNEL_URL])
+    payload = json.loads(result.stdout)
     entries = []
-    for entry in root.findall("atom:entry", ATOM_NS):
-        video_id_el = entry.find("yt:videoId", ATOM_NS)
-        title_el = entry.find("atom:title", ATOM_NS)
-        published_el = entry.find("atom:published", ATOM_NS)
-
-        if video_id_el is None or title_el is None:
+    for entry in payload.get("entries") or []:
+        if not isinstance(entry, dict) or not entry.get("id"):
             continue
-
-        pub_date = ""
-        if published_el is not None and published_el.text:
-            pub_date = published_el.text[:10]
-
-        entries.append({
-            "video_id": video_id_el.text,
-            "title": title_el.text,
-            "publish_date": pub_date,
-            "youtube_url": f"https://youtube.com/watch?v={video_id_el.text}",
-        })
-
+        entries.append(
+            {
+                "video_id": str(entry["id"]),
+                "title": str(entry.get("title") or "Untitled"),
+                "duration": entry.get("duration"),
+                "youtube_url": f"https://youtube.com/watch?v={entry['id']}",
+            }
+        )
+    if not entries:
+        raise SyncError("YouTube returned no videos for the channel")
     return entries
 
 
 def get_existing_video_ids() -> set[str]:
-    """Collect all YouTube video IDs already in the repo."""
-    video_ids = set()
-    for year_dir in TRANSCRIPTS_DIR.iterdir():
-        if not year_dir.is_dir():
-            continue
-        for md_file in year_dir.glob("*.md"):
-            content = md_file.read_text(encoding="utf-8")
-            match = re.search(r"youtube_url:.*watch\?v=([^\s]+)", content)
-            if match:
-                video_ids.add(match.group(1))
+    video_ids: set[str] = set()
+    for markdown_file in TRANSCRIPTS_DIR.glob("*/*.md"):
+        content = markdown_file.read_text(encoding="utf-8", errors="replace")
+        match = re.search(
+            r"(?:watch\?v=|youtu\.be/)([A-Za-z0-9_-]{11})",
+            content,
+        )
+        if match:
+            video_ids.add(match.group(1))
     return video_ids
 
 
 def get_next_episode_number() -> int:
-    """Find the next sequential episode number."""
-    max_num = 0
-    for year_dir in TRANSCRIPTS_DIR.iterdir():
-        if not year_dir.is_dir():
-            continue
-        for md_file in year_dir.glob("*.md"):
-            match = re.match(r"(\d+)-", md_file.name)
-            if match:
-                max_num = max(max_num, int(match.group(1)))
-    return max_num + 1
+    numbers = []
+    for markdown_file in TRANSCRIPTS_DIR.glob("*/*.md"):
+        match = re.match(r"(\d+)-", markdown_file.name)
+        if match:
+            numbers.append(int(match.group(1)))
+    return max(numbers, default=0) + 1
 
 
 def slugify(title: str) -> str:
-    """Convert title to URL-friendly slug matching existing file naming."""
-    slug = title.lower()
-    slug = re.sub(r"[''']", "", slug)
+    slug = title.lower().replace("’", "").replace("'", "")
     slug = re.sub(r"[^a-z0-9\s-]", " ", slug)
     slug = re.sub(r"\s+", "-", slug.strip())
-    slug = re.sub(r"-+", "-", slug)
-    slug = slug.strip("-")
+    slug = re.sub(r"-+", "-", slug).strip("-")
     if len(slug) > 80:
         slug = slug[:80].rsplit("-", 1)[0]
-    return slug
+    return slug or "untitled"
 
 
-def fetch_transcript(video_id: str) -> str | None:
-    """Fetch and format YouTube transcript for a video."""
-    try:
-        from youtube_transcript_api import YouTubeTranscriptApi
-
-        ytt = YouTubeTranscriptApi()
-        transcript = ytt.fetch(video_id, languages=["en"])
-        return format_transcript(transcript.snippets)
-    except Exception as e:
-        print(f"        ⚠ Could not fetch transcript: {e}")
-        return None
-
-
-def format_transcript(snippets) -> str:
-    """Format transcript snippets into readable paragraphs."""
-    if not snippets:
-        return ""
-
-    paragraphs = []
-    current_sentences = []
-    sentence_count = 0
-
-    for snippet in snippets:
-        text = snippet.text.replace("\n", " ").strip()
-        if not text:
+def parse_metadata(stdout: str) -> dict[str, object]:
+    for line in reversed(stdout.splitlines()):
+        try:
+            payload = json.loads(line)
+        except json.JSONDecodeError:
             continue
+        if isinstance(payload, dict) and payload.get("id"):
+            return payload
+    raise SyncError("yt-dlp did not return video metadata")
 
-        current_sentences.append(text)
-        sentence_count += text.count(".") + text.count("!") + text.count("?")
 
-        if sentence_count >= 6:
-            paragraphs.append(" ".join(current_sentences))
-            current_sentences = []
+def transcript_from_json3(path: Path) -> str:
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    snippets: list[str] = []
+    for event in payload.get("events") or []:
+        text = "".join(
+            str(segment.get("utf8") or "")
+            for segment in event.get("segs") or []
+            if isinstance(segment, dict)
+        )
+        text = html.unescape(text).replace("\u200b", " ")
+        text = re.sub(r"\s+", " ", text).strip()
+        if text:
+            snippets.append(text)
+
+    if not snippets:
+        raise SyncError(f"Downloaded caption file was empty: {path.name}")
+
+    paragraphs: list[str] = []
+    current: list[str] = []
+    current_length = 0
+    sentence_count = 0
+    for snippet in snippets:
+        current.append(snippet)
+        current_length += len(snippet) + 1
+        sentence_count += len(re.findall(r"[.!?](?:[\"']|$)", snippet))
+        if current_length >= 900 or (current_length >= 450 and sentence_count >= 4):
+            paragraph = re.sub(r"\s+([,.;!?])", r"\1", " ".join(current))
+            paragraphs.append(paragraph)
+            current = []
+            current_length = 0
             sentence_count = 0
-
-    if current_sentences:
-        paragraphs.append(" ".join(current_sentences))
-
+    if current:
+        paragraphs.append(re.sub(r"\s+([,.;!?])", r"\1", " ".join(current)))
     return "\n\n".join(paragraphs)
 
 
-def create_transcript_file(episode_num: int, video: dict, transcript_text: str) -> Path:
-    """Create a transcript markdown file with header format for add_frontmatter.py."""
-    title = video["title"]
-    slug = slugify(title)
-    filename = f"{episode_num:03d}-{slug}.md"
+def fetch_video(
+    video: dict[str, object],
+    cookies_from_browser: str,
+) -> tuple[dict[str, object], str]:
+    with tempfile.TemporaryDirectory(prefix="btc-transcript-") as temporary_directory:
+        output_template = str(Path(temporary_directory) / "%(id)s")
+        arguments = []
+        if cookies_from_browser:
+            arguments.extend(["--cookies-from-browser", cookies_from_browser])
+        arguments.extend(
+            [
+                "--skip-download",
+                "--write-subs",
+                "--write-auto-subs",
+                "--sub-langs",
+                "en",
+                "--sub-format",
+                "json3",
+                "--output",
+                output_template,
+                "--print-json",
+                str(video["youtube_url"]),
+            ]
+        )
+        result = run_ytdlp(arguments)
+        metadata = parse_metadata(result.stdout)
+        caption_files = sorted(Path(temporary_directory).glob(f"{video['video_id']}.*.json3"))
+        if not caption_files:
+            raise SyncError("No English manual or automatic captions were downloaded")
+        return metadata, transcript_from_json3(caption_files[0])
 
-    year = video["publish_date"][:4] if video["publish_date"] else str(datetime.now().year)
-    year_dir = TRANSCRIPTS_DIR / year
-    year_dir.mkdir(parents=True, exist_ok=True)
 
-    filepath = year_dir / filename
+def publish_date_from_metadata(metadata: dict[str, object]) -> str:
+    raw_date = str(metadata.get("upload_date") or metadata.get("release_date") or "")
+    if not re.fullmatch(r"\d{8}", raw_date):
+        raise SyncError("Video metadata did not include an upload date")
+    return f"{raw_date[:4]}-{raw_date[4:6]}-{raw_date[6:]}"
 
-    # Write in the raw header format that add_frontmatter.py expects
-    content = (
-        f"# {title}\n\n"
-        f"**Date:** {video['publish_date']}\n\n"
-        f"**URL:** {video['youtube_url']}\n\n"
-        f"---\n\n"
-        f"{transcript_text}\n"
+
+def create_transcript_file(
+    episode_number: int,
+    video: dict[str, object],
+    metadata: dict[str, object],
+    transcript: str,
+) -> Path:
+    title = str(metadata.get("title") or video["title"])
+    publish_date = publish_date_from_metadata(metadata)
+    youtube_url = str(video["youtube_url"])
+    guest = extract_guest(title)
+    keywords = extract_keywords(title, transcript)
+    frontmatter = build_frontmatter(title, guest, publish_date, youtube_url, keywords)
+
+    year_directory = TRANSCRIPTS_DIR / publish_date[:4]
+    year_directory.mkdir(parents=True, exist_ok=True)
+    path = year_directory / f"{episode_number:03d}-{slugify(title)}.md"
+    path.write_text(f"{frontmatter}\n\n{transcript}\n", encoding="utf-8")
+    return path
+
+
+def update_readme_count() -> None:
+    if not README_PATH.exists():
+        return
+    episode_count = len(list(TRANSCRIPTS_DIR.glob("*/*.md")))
+    content = README_PATH.read_text(encoding="utf-8")
+    content = re.sub(r"\d+ episodes and counting", f"{episode_count} episodes and counting", content)
+    content = re.sub(r"Q&A \d+\+ episodes", f"Q&A {episode_count}+ episodes", content)
+    README_PATH.write_text(content, encoding="utf-8")
+
+
+def rebuild_index() -> None:
+    subprocess.run(
+        [sys.executable, str(SCRIPTS_DIR / "build-index.py")],
+        cwd=REPO_ROOT,
+        check=True,
     )
-    filepath.write_text(content, encoding="utf-8")
-    return filepath
 
 
-def main():
-    print("=== Behind the Craft — Transcript Updater ===\n")
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--cookies-from-browser",
+        default="",
+        help="Browser profile yt-dlp should use for YouTube access, such as chrome.",
+    )
+    parser.add_argument(
+        "--check-only",
+        action="store_true",
+        help="Exit nonzero when published videos are missing; do not download transcripts.",
+    )
+    return parser.parse_args()
 
-    # Fetch RSS feed
-    print("Fetching RSS feed...")
-    videos = fetch_rss_feed()
-    print(f"  Found {len(videos)} videos in feed")
 
-    # Filter out existing episodes
+def main() -> int:
+    args = parse_args()
+    print("=== Behind the Craft transcript sync ===")
+    try:
+        videos = discover_channel_videos()
+    except (SyncError, json.JSONDecodeError) as exc:
+        print(f"sync failed during discovery: {exc}", file=sys.stderr)
+        return 1
+
     existing_ids = get_existing_video_ids()
-    new_videos = [v for v in videos if v["video_id"] not in existing_ids]
-    print(f"  {len(new_videos)} new episode(s) to process")
+    missing = [video for video in videos if video["video_id"] not in existing_ids]
+    print(f"published={len(videos)} archived={len(existing_ids)} missing={len(missing)}")
 
-    if not new_videos:
-        print("\nAll caught up — no new episodes.")
-        return
+    if not missing:
+        print("Archive is current.")
+        return 0
+    if args.check_only:
+        for video in reversed(missing):
+            print(f"missing {video['video_id']} | {video['title']}")
+        return 1
 
-    # Sort oldest-first so numbering stays chronological
-    new_videos.sort(key=lambda v: v["publish_date"])
-
-    # Fetch transcripts and create files
-    next_num = get_next_episode_number()
-    created = []
-
-    for i, video in enumerate(new_videos):
-        num = next_num + i
-        print(f"\n  [{num:03d}] {video['title']}")
-        print(f"        {video['youtube_url']} ({video['publish_date']})")
-
-        transcript = fetch_transcript(video["video_id"])
-        if transcript is None:
-            print("        Skipping (no transcript available)")
-            # Adjust numbering so we don't leave gaps
-            next_num -= 1
+    next_episode_number = get_next_episode_number()
+    created: list[Path] = []
+    failures: list[tuple[dict[str, object], str]] = []
+    for video in reversed(missing):
+        print(f"\n[{next_episode_number:03d}] {video['title']}")
+        try:
+            metadata, transcript = fetch_video(video, args.cookies_from_browser)
+            path = create_transcript_file(
+                next_episode_number,
+                video,
+                metadata,
+                transcript,
+            )
+        except (SyncError, json.JSONDecodeError) as exc:
+            failures.append((video, str(exc)))
+            print(f"  FAILED: {exc}", file=sys.stderr)
             continue
+        created.append(path)
+        next_episode_number += 1
+        print(f"  added {path.relative_to(REPO_ROOT)}")
 
-        filepath = create_transcript_file(num, video, transcript)
-        created.append(filepath)
-        print(f"        ✓ {filepath.relative_to(REPO_ROOT)}")
+    if created:
+        update_readme_count()
+        rebuild_index()
 
-    if not created:
-        print("\nNo transcripts could be fetched.")
-        return
-
-    # Run add_frontmatter.py
-    print("\nAdding frontmatter...")
-    subprocess.run([sys.executable, str(SCRIPTS_DIR / "add_frontmatter.py")],
-                   cwd=REPO_ROOT, check=True)
-
-    # Rebuild topic index
-    print("\nRebuilding topic index...")
-    subprocess.run([sys.executable, str(SCRIPTS_DIR / "build-index.py")],
-                   cwd=REPO_ROOT, check=True)
-
-    print(f"\n=== Done! {len(created)} new transcript(s) added. ===")
+    print(f"\ncreated={len(created)} failed={len(failures)}")
+    for video, error in failures:
+        print(f"failed {video['video_id']} | {video['title']} | {error}", file=sys.stderr)
+    return 1 if failures else 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

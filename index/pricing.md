@@ -1,6 +1,6 @@
 # Pricing
 
-8 episodes
+10 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -12,3 +12,5 @@
 | 069 | [AI Agents vs Data Analysts: The Truth from Amplitude PM (41 Min Deep Dive) | James Evans](../transcripts/2025/069-ai-agents-vs-data-analysts-the-truth-from-amplitude-pm-41-min-deep-dive-james-evans.md) | James Evans | 2025-07-06 |
 | 092 | [Full Tutorial: Vibe Code a Real SaaS App in 40 Minutes | Colin Matthews](../transcripts/2025/092-full-tutorial-vibe-code-a-real-saas-app-in-40-minutes-colin-matthews.md) | Colin Matthews | 2025-11-02 |
 | 110 | [Full Tutorial: Set Up Your 24/7 AI Employee in 20 Minutes (OpenClaw)](../transcripts/2026/110-full-tutorial-set-up-your-247-ai-employee-in-20-minutes-openclaw.md) | Peter Yang | 2026-01-28 |
+| 132 | [How This Solo AI Founder Bootstrapped 5 Products to 1M+ / Month | Tibo Louis-Lucas](../transcripts/2026/132-how-this-solo-ai-founder-bootstrapped-5-products-to-1m-month-tibo-louis-lucas.md) | Tibo Louis-Lucas | 2026-04-26 |
+| 152 | [GPT-5.6 vs Claude Fable 5: I Tested 6 Real Use Cases (Here’s the Winner)](../transcripts/2026/152-gpt-5-6-vs-claude-fable-5-i-tested-6-real-use-cases-heres-the-winner.md) | Peter Yang | 2026-07-09 |

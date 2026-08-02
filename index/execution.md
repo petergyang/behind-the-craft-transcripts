@@ -1,6 +1,6 @@
 # Execution
 
-50 episodes
+66 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -54,3 +54,19 @@
 | 118 | [Full Tutorial: Use OpenClaw to Build a Business That Runs Itself in 35 Min | Nat Eliason](../transcripts/2026/118-full-tutorial-use-openclaw-to-build-a-business-that-runs-itself-in-35-min-nat.md) | Nat Eliason | 2026-02-22 |
 | 121 | [Replit Agent 4 Is Here: Everything You Need to Know](../transcripts/2026/121-replit-agent-4-is-here-everything-you-need-to-know.md) | Peter Yang | 2026-03-11 |
 | 122 | [Inside Ramp, the $32B Company Where AI Agents Run Everything | Geoff Charles](../transcripts/2026/122-inside-ramp-the-32b-company-where-ai-agents-run-everything-geoff-charles.md) | Geoff Charles | 2026-03-15 |
+| 123 | [Master Gemini in Google Docs, Sheets & Slides in 18 Min (5 Real Use Cases)](../transcripts/2026/123-master-gemini-in-google-docs-sheets-slides-in-18-min-5-real-use-cases.md) | Peter Yang | 2026-03-18 |
+| 125 | [Claude Cowork Tutorial from Cowork's Design Lead (40 Min) | Jenny Wen](../transcripts/2026/125-claude-cowork-tutorial-from-coworks-design-lead-40-min-jenny-wen.md) | Jenny Wen | 2026-03-29 |
+| 127 | [How OpenAI's Codex Team Builds with Codex (43 Min) | Alex & Romain](../transcripts/2026/127-how-openais-codex-team-builds-with-codex-43-min-alex-romain.md) | Alex & Romain | 2026-04-05 |
+| 130 | [How to Build for AI Agents and a Claude Code Second Brain in 25 Min | Ryan Wiggins](../transcripts/2026/130-how-to-build-for-ai-agents-and-a-claude-code-second-brain-in-25-min-ryan-wiggins.md) | Ryan Wiggins | 2026-04-22 |
+| 131 | [GPT 5.5 and ChatGPT Images 2: Everything You Need to Know in 15 Minutes (4 Real Use Cases)](../transcripts/2026/131-gpt-5-5-and-chatgpt-images-2-everything-you-need-to-know-in-15-minutes-4-real.md) | Peter Yang | 2026-04-24 |
+| 133 | [5 Underrated Google AI Tools You Need to Try in 16 Minutes (Pomelli, Stitch, Genie, Flow, and More)](../transcripts/2026/133-5-underrated-google-ai-tools-you-need-to-try-in-16-minutes-pomelli-stitch-genie.md) | Peter Yang | 2026-04-29 |
+| 134 | [Everything You Need to Know About Context Engineering in 40 Minutes | Ravi Mehta](../transcripts/2026/134-everything-you-need-to-know-about-context-engineering-in-40-minutes-ravi-mehta.md) | Ravi Mehta | 2026-05-03 |
+| 136 | [Inside How Anthropic Is Building the Next Claude | Alex Albert](../transcripts/2026/136-inside-how-anthropic-is-building-the-next-claude-alex-albert.md) | Alex Albert | 2026-05-17 |
+| 140 | [The Exact AI Skills This Solo Founder Uses to Build 5 Apps at Once | Josh Pigford](../transcripts/2026/140-the-exact-ai-skills-this-solo-founder-uses-to-build-5-apps-at-once-josh-pigford.md) | Josh Pigford | 2026-05-31 |
+| 142 | [How This Ex-Meta L8 Engineer Ships 40 PRs a Day with AI Agents | Kun Chen](../transcripts/2026/142-how-this-ex-meta-l8-engineer-ships-40-prs-a-day-with-ai-agents-kun-chen.md) | Kun Chen | 2026-06-07 |
+| 144 | [How This Non-Technical Founder Mastered Agentic Engineering in 50 Minutes | Matt Van Horn](../transcripts/2026/144-how-this-non-technical-founder-mastered-agentic-engineering-in-50-minutes-matt.md) | Matt Van Horn | 2026-06-14 |
+| 146 | [Full Tutorial: Make Professional Launch Videos for Free with Hyperframes | Bin Liu & Jake Moran](../transcripts/2026/146-full-tutorial-make-professional-launch-videos-for-free-with-hyperframes-bin-liu.md) | Bin Liu & Jake Moran | 2026-06-21 |
+| 149 | [Claude Fable 5 Is Finally Back: 5 Must-Try Use Cases Before July 12](../transcripts/2026/149-claude-fable-5-is-finally-back-5-must-try-use-cases-before-july-12.md) | Peter Yang | 2026-07-01 |
+| 151 | [Inside How OpenAI Uses Codex to Do Product Work | Rohan Varma](../transcripts/2026/151-inside-how-openai-uses-codex-to-do-product-work-rohan-varma.md) | Rohan Varma | 2026-07-05 |
+| 153 | [How to Build AI Agents That Check Their Own Work | Jared Zoneraich](../transcripts/2026/153-how-to-build-ai-agents-that-check-their-own-work-jared-zoneraich.md) | Jared Zoneraich | 2026-07-12 |
+| 155 | [How I Plan, Build, and Run Loops with Claude Code in 40 Minutes | Thariq Shihipar](../transcripts/2026/155-how-i-plan-build-and-run-loops-with-claude-code-in-40-minutes-thariq-shihipar.md) | Thariq Shihipar | 2026-07-19 |

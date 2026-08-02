@@ -1,6 +1,6 @@
 # Storytelling
 
-19 episodes
+25 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -23,3 +23,9 @@
 | 091 | [Full Tutorial: GPT-5 vs Claude 4.5 vs Gemini 2.5 for 10 Tasks (Oct 2025)](../transcripts/2025/091-full-tutorial-gpt-5-vs-claude-45-vs-gemini-25-for-10-tasks-oct-2025.md) | Peter Yang | 2025-10-29 |
 | 095 | [I Tested Every AI Browser Across 6 Tasks: Here's What Actually Works (Nov 2025)](../transcripts/2025/095-i-tested-every-ai-browser-across-6-tasks-heres-what-actually-works-nov-2025.md) | Peter Yang | 2025-11-12 |
 | 113 | [Claude Opus 4.6 Is Here: Everything You Need to Know](../transcripts/2026/113-claude-opus-46-is-here-everything-you-need-to-know.md) | Peter Yang | 2026-02-05 |
+| 141 | [The Only Claude Skills Tutorial You Need (Add Evals and Memory)](../transcripts/2026/141-the-only-claude-skills-tutorial-you-need-add-evals-and-memory.md) | Peter Yang | 2026-06-03 |
+| 145 | [How I Turned Codex Into My AI Life Coach in 13 Minutes (5-Step Tutorial)](../transcripts/2026/145-how-i-turned-codex-into-my-ai-life-coach-in-13-minutes-5-step-tutorial.md) | Peter Yang | 2026-06-17 |
+| 148 | [Inside Anthropic’s Bet on Claude Agents that Work While You Sleep | Jess Yan](../transcripts/2026/148-inside-anthropics-bet-on-claude-agents-that-work-while-you-sleep-jess-yan.md) | Jess Yan | 2026-06-28 |
+| 149 | [Claude Fable 5 Is Finally Back: 5 Must-Try Use Cases Before July 12](../transcripts/2026/149-claude-fable-5-is-finally-back-5-must-try-use-cases-before-july-12.md) | Peter Yang | 2026-07-01 |
+| 150 | [I Tested Gemini Spark: What Google’s AI Agent Can Actually Do in 21 Minutes](../transcripts/2026/150-i-tested-gemini-spark-what-googles-ai-agent-can-actually-do-in-21-minutes.md) | Peter Yang | 2026-07-03 |
+| 156 | [ChatGPT Work + Codex Tutorial: My Complete System at OpenAI | Jason Liu](../transcripts/2026/156-chatgpt-work-codex-tutorial-my-complete-system-at-openai-jason-liu.md) | Jason Liu | 2026-07-26 |

@@ -1,6 +1,6 @@
 # Culture
 
-32 episodes
+42 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -36,3 +36,13 @@
 | 114 | [How to Make Claude Code Better Every Time You Use It (50 Min Tutorial) | Kieran Klaassen](../transcripts/2026/114-how-to-make-claude-code-better-every-time-you-use-it-50-min-tutorial-kieran-klaassen.md) | Kieran Klaassen | 2026-02-08 |
 | 119 | [Full Tutorial: Connect Claude Code to Google, Slack, and Reddit in 40 Min (Skills + MCPs)](../transcripts/2026/119-full-tutorial-connect-claude-code-to-google-slack-and-reddit-in-40-min-skills.md) | Peter Yang | 2026-03-01 |
 | 122 | [Inside Ramp, the $32B Company Where AI Agents Run Everything | Geoff Charles](../transcripts/2026/122-inside-ramp-the-32b-company-where-ai-agents-run-everything-geoff-charles.md) | Geoff Charles | 2026-03-15 |
+| 128 | [Figma CEO on How to Get Good at Design in the AI Era | Dylan Field](../transcripts/2026/128-figma-ceo-on-how-to-get-good-at-design-in-the-ai-era-dylan-field.md) | Dylan Field | 2026-04-12 |
+| 129 | [Claude Design: Everything You Can Build in 16 Minutes (5 Real Use Cases)](../transcripts/2026/129-claude-design-everything-you-can-build-in-16-minutes-5-real-use-cases.md) | Peter Yang | 2026-04-18 |
+| 136 | [Inside How Anthropic Is Building the Next Claude | Alex Albert](../transcripts/2026/136-inside-how-anthropic-is-building-the-next-claude-alex-albert.md) | Alex Albert | 2026-05-17 |
+| 137 | [My Honest Review of Google's AI Strategy After I/O](../transcripts/2026/137-my-honest-review-of-googles-ai-strategy-after-i-o.md) | Peter Yang | 2026-05-21 |
+| 138 | [How This 5x Founder Runs His Startup Solo With AI Agents (OpenClaw, Codex, Devin) | Ryan Carson](../transcripts/2026/138-how-this-5x-founder-runs-his-startup-solo-with-ai-agents-openclaw-codex-devin.md) | Ryan Carson | 2026-05-24 |
+| 143 | [I Quit My High Paying Product Job to Bet on Myself](../transcripts/2026/143-i-quit-my-high-paying-product-job-to-bet-on-myself.md) | Peter Yang | 2026-06-10 |
+| 145 | [How I Turned Codex Into My AI Life Coach in 13 Minutes (5-Step Tutorial)](../transcripts/2026/145-how-i-turned-codex-into-my-ai-life-coach-in-13-minutes-5-step-tutorial.md) | Peter Yang | 2026-06-17 |
+| 147 | [Hermes Full Course: Build Your 24/7 AI Chief of Staff in 45 Minutes](../transcripts/2026/147-hermes-full-course-build-your-24-7-ai-chief-of-staff-in-45-minutes.md) | Peter Yang | 2026-06-24 |
+| 151 | [Inside How OpenAI Uses Codex to Do Product Work | Rohan Varma](../transcripts/2026/151-inside-how-openai-uses-codex-to-do-product-work-rohan-varma.md) | Rohan Varma | 2026-07-05 |
+| 154 | [How I Use ChatGPT Work and GPT-5.6 to Do Everything (Beginner Tutorial)](../transcripts/2026/154-how-i-use-chatgpt-work-and-gpt-5-6-to-do-everything-beginner-tutorial.md) | Peter Yang | 2026-07-15 |

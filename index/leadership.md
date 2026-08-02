@@ -1,6 +1,6 @@
 # Leadership
 
-88 episodes
+106 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -92,3 +92,21 @@
 | 118 | [Full Tutorial: Use OpenClaw to Build a Business That Runs Itself in 35 Min | Nat Eliason](../transcripts/2026/118-full-tutorial-use-openclaw-to-build-a-business-that-runs-itself-in-35-min-nat.md) | Nat Eliason | 2026-02-22 |
 | 119 | [Full Tutorial: Connect Claude Code to Google, Slack, and Reddit in 40 Min (Skills + MCPs)](../transcripts/2026/119-full-tutorial-connect-claude-code-to-google-slack-and-reddit-in-40-min-skills.md) | Peter Yang | 2026-03-01 |
 | 122 | [Inside Ramp, the $32B Company Where AI Agents Run Everything | Geoff Charles](../transcripts/2026/122-inside-ramp-the-32b-company-where-ai-agents-run-everything-geoff-charles.md) | Geoff Charles | 2026-03-15 |
+| 123 | [Master Gemini in Google Docs, Sheets & Slides in 18 Min (5 Real Use Cases)](../transcripts/2026/123-master-gemini-in-google-docs-sheets-slides-in-18-min-5-real-use-cases.md) | Peter Yang | 2026-03-18 |
+| 127 | [How OpenAI's Codex Team Builds with Codex (43 Min) | Alex & Romain](../transcripts/2026/127-how-openais-codex-team-builds-with-codex-43-min-alex-romain.md) | Alex & Romain | 2026-04-05 |
+| 128 | [Figma CEO on How to Get Good at Design in the AI Era | Dylan Field](../transcripts/2026/128-figma-ceo-on-how-to-get-good-at-design-in-the-ai-era-dylan-field.md) | Dylan Field | 2026-04-12 |
+| 135 | [Automate Your Life with Claude Code in 40 Minutes | Moritz Kremb](../transcripts/2026/135-automate-your-life-with-claude-code-in-40-minutes-moritz-kremb.md) | Moritz Kremb | 2026-05-10 |
+| 136 | [Inside How Anthropic Is Building the Next Claude | Alex Albert](../transcripts/2026/136-inside-how-anthropic-is-building-the-next-claude-alex-albert.md) | Alex Albert | 2026-05-17 |
+| 138 | [How This 5x Founder Runs His Startup Solo With AI Agents (OpenClaw, Codex, Devin) | Ryan Carson](../transcripts/2026/138-how-this-5x-founder-runs-his-startup-solo-with-ai-agents-openclaw-codex-devin.md) | Ryan Carson | 2026-05-24 |
+| 139 | [I Stopped Using PowerPoint After Building This Claude Code Skill (Full Tutorial + 3 Templates)](../transcripts/2026/139-i-stopped-using-powerpoint-after-building-this-claude-code-skill-full-tutorial.md) | Peter Yang | 2026-05-27 |
+| 140 | [The Exact AI Skills This Solo Founder Uses to Build 5 Apps at Once | Josh Pigford](../transcripts/2026/140-the-exact-ai-skills-this-solo-founder-uses-to-build-5-apps-at-once-josh-pigford.md) | Josh Pigford | 2026-05-31 |
+| 142 | [How This Ex-Meta L8 Engineer Ships 40 PRs a Day with AI Agents | Kun Chen](../transcripts/2026/142-how-this-ex-meta-l8-engineer-ships-40-prs-a-day-with-ai-agents-kun-chen.md) | Kun Chen | 2026-06-07 |
+| 143 | [I Quit My High Paying Product Job to Bet on Myself](../transcripts/2026/143-i-quit-my-high-paying-product-job-to-bet-on-myself.md) | Peter Yang | 2026-06-10 |
+| 144 | [How This Non-Technical Founder Mastered Agentic Engineering in 50 Minutes | Matt Van Horn](../transcripts/2026/144-how-this-non-technical-founder-mastered-agentic-engineering-in-50-minutes-matt.md) | Matt Van Horn | 2026-06-14 |
+| 146 | [Full Tutorial: Make Professional Launch Videos for Free with Hyperframes | Bin Liu & Jake Moran](../transcripts/2026/146-full-tutorial-make-professional-launch-videos-for-free-with-hyperframes-bin-liu.md) | Bin Liu & Jake Moran | 2026-06-21 |
+| 147 | [Hermes Full Course: Build Your 24/7 AI Chief of Staff in 45 Minutes](../transcripts/2026/147-hermes-full-course-build-your-24-7-ai-chief-of-staff-in-45-minutes.md) | Peter Yang | 2026-06-24 |
+| 148 | [Inside Anthropic’s Bet on Claude Agents that Work While You Sleep | Jess Yan](../transcripts/2026/148-inside-anthropics-bet-on-claude-agents-that-work-while-you-sleep-jess-yan.md) | Jess Yan | 2026-06-28 |
+| 153 | [How to Build AI Agents That Check Their Own Work | Jared Zoneraich](../transcripts/2026/153-how-to-build-ai-agents-that-check-their-own-work-jared-zoneraich.md) | Jared Zoneraich | 2026-07-12 |
+| 155 | [How I Plan, Build, and Run Loops with Claude Code in 40 Minutes | Thariq Shihipar](../transcripts/2026/155-how-i-plan-build-and-run-loops-with-claude-code-in-40-minutes-thariq-shihipar.md) | Thariq Shihipar | 2026-07-19 |
+| 156 | [ChatGPT Work + Codex Tutorial: My Complete System at OpenAI | Jason Liu](../transcripts/2026/156-chatgpt-work-codex-tutorial-my-complete-system-at-openai-jason-liu.md) | Jason Liu | 2026-07-26 |
+| 158 | [Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra](../transcripts/2026/158-hermes-co-founder-on-building-an-ai-agent-that-improves-itself-karan-malhotra.md) | Karan Malhotra | 2026-08-02 |

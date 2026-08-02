@@ -1,10 +1,10 @@
 # Behind the Craft — Transcripts
 
-Full transcripts of [Behind the Craft](https://www.youtube.com/@peteryangYT), my YouTube channel where I share practical AI tutorials and interviews for busy people. 122 episodes and counting. Searchable. AI-friendly. Auto-updated every Sunday.
+Full transcripts of [Behind the Craft](https://www.youtube.com/@peteryangYT), my YouTube channel where I share practical AI tutorials and interviews for busy people. 158 episodes and counting. Searchable. AI-friendly. Updated automatically from published videos.
 
 ## What you can build with this
 
-- **AI assistant** — Drop into ChatGPT, Claude, or NotebookLM to Q&A 122+ episodes of product and AI advice
+- **AI assistant** — Drop into ChatGPT, Claude, or NotebookLM to Q&A 158+ episodes of product and AI advice
 - **Content** — Find quotes, compile insights by topic, generate summaries for newsletters or social
 - **Research** — Browse the [topic index](index/README.md) for 22 topics like [AI](index/ai.md), [product management](index/product-management.md), [career growth](index/career-growth.md), [startups](index/startups.md)
 
@@ -42,14 +42,13 @@ Or point your favorite AI tool at the `transcripts/` folder.
 
 ## Staying up to date
 
-New episodes are added automatically every Sunday via GitHub Actions — no manual updates needed.
+New episodes are fetched daily by a local automation and pushed here. A weekly GitHub Actions check fails visibly if the public archive falls behind.
 
 ## Maintenance
 
 ```bash
-python3 scripts/fetch_new_episodes.py  # fetch new episodes from YouTube
+python3 scripts/fetch_new_episodes.py --cookies-from-browser chrome  # fetch new episodes from YouTube
 python3 scripts/add_frontmatter.py     # add frontmatter to new episodes
 python3 scripts/build-index.py         # rebuild topic index
 ```
-
 

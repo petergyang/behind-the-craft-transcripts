@@ -1,4 +1,4 @@
-name: Update Transcripts
+name: Check Transcript Freshness
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   update:
@@ -19,20 +19,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install dependencies
-        run: pip install youtube-transcript-api
+      - name: Install yt-dlp
+        run: pip install yt-dlp
 
-      - name: Fetch new episodes
-        run: python scripts/fetch_new_episodes.py
-
-      - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add transcripts/ index/
-          if git diff --cached --quiet; then
-            echo "No new transcripts to commit."
-          else
-            git commit -m "Add new Behind the Craft transcripts (automated)"
-            git push
-          fi
+      - name: Check for missing published videos
+        run: python scripts/fetch_new_episodes.py --check-only
