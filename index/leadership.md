@@ -1,6 +1,6 @@
 # Leadership
 
-106 episodes
+107 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -110,3 +110,4 @@
 | 155 | [How I Plan, Build, and Run Loops with Claude Code in 40 Minutes | Thariq Shihipar](../transcripts/2026/155-how-i-plan-build-and-run-loops-with-claude-code-in-40-minutes-thariq-shihipar.md) | Thariq Shihipar | 2026-07-19 |
 | 156 | [ChatGPT Work + Codex Tutorial: My Complete System at OpenAI | Jason Liu](../transcripts/2026/156-chatgpt-work-codex-tutorial-my-complete-system-at-openai-jason-liu.md) | Jason Liu | 2026-07-26 |
 | 158 | [Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra](../transcripts/2026/158-hermes-co-founder-on-building-an-ai-agent-that-improves-itself-karan-malhotra.md) | Karan Malhotra | 2026-08-02 |
+| 159 | [5 Rules for Building AI Agents That Work in Production | Nan Yu & Jacob Shumway](../transcripts/2026/159-5-rules-for-building-ai-agents-that-work-in-production-nan-yu-jacob-shumway.md) | Nan Yu & Jacob Shumway | 2026-08-09 |

@@ -1,6 +1,6 @@
 # Product Management
 
-79 episodes
+80 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -83,3 +83,4 @@
 | 143 | [I Quit My High Paying Product Job to Bet on Myself](../transcripts/2026/143-i-quit-my-high-paying-product-job-to-bet-on-myself.md) | Peter Yang | 2026-06-10 |
 | 151 | [Inside How OpenAI Uses Codex to Do Product Work | Rohan Varma](../transcripts/2026/151-inside-how-openai-uses-codex-to-do-product-work-rohan-varma.md) | Rohan Varma | 2026-07-05 |
 | 157 | [Full Tutorial: From Idea to App with Claude Design and Claude Code in 25 Minutes](../transcripts/2026/157-full-tutorial-from-idea-to-app-with-claude-design-and-claude-code-in-25-minutes.md) | Peter Yang | 2026-07-29 |
+| 159 | [5 Rules for Building AI Agents That Work in Production | Nan Yu & Jacob Shumway](../transcripts/2026/159-5-rules-for-building-ai-agents-that-work-in-production-nan-yu-jacob-shumway.md) | Nan Yu & Jacob Shumway | 2026-08-09 |
