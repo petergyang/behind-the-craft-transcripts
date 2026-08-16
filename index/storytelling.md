@@ -1,6 +1,6 @@
 # Storytelling
 
-25 episodes
+26 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -29,3 +29,4 @@
 | 149 | [Claude Fable 5 Is Finally Back: 5 Must-Try Use Cases Before July 12](../transcripts/2026/149-claude-fable-5-is-finally-back-5-must-try-use-cases-before-july-12.md) | Peter Yang | 2026-07-01 |
 | 150 | [I Tested Gemini Spark: What Google’s AI Agent Can Actually Do in 21 Minutes](../transcripts/2026/150-i-tested-gemini-spark-what-googles-ai-agent-can-actually-do-in-21-minutes.md) | Peter Yang | 2026-07-03 |
 | 156 | [ChatGPT Work + Codex Tutorial: My Complete System at OpenAI | Jason Liu](../transcripts/2026/156-chatgpt-work-codex-tutorial-my-complete-system-at-openai-jason-liu.md) | Jason Liu | 2026-07-26 |
+| 160 | [How I Make Videos for 1.5M+ Followers With Codex | Riley Brown](../transcripts/2026/160-how-i-make-videos-for-1-5m-followers-with-codex-riley-brown.md) | Riley Brown | 2026-08-16 |
