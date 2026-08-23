@@ -1,6 +1,6 @@
 # AI Tools
 
-67 episodes
+68 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -71,3 +71,4 @@
 | 157 | [Full Tutorial: From Idea to App with Claude Design and Claude Code in 25 Minutes](../transcripts/2026/157-full-tutorial-from-idea-to-app-with-claude-design-and-claude-code-in-25-minutes.md) | Peter Yang | 2026-07-29 |
 | 158 | [Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra](../transcripts/2026/158-hermes-co-founder-on-building-an-ai-agent-that-improves-itself-karan-malhotra.md) | Karan Malhotra | 2026-08-02 |
 | 160 | [How I Make Videos for 1.5M+ Followers With Codex | Riley Brown](../transcripts/2026/160-how-i-make-videos-for-1-5m-followers-with-codex-riley-brown.md) | Riley Brown | 2026-08-16 |
+| 161 | [Grok Bot: 5 Must-Try Use Cases for Work and Life (Full Tutorial)](../transcripts/2026/161-grok-bot-5-must-try-use-cases-for-work-and-life-full-tutorial.md) | Peter Yang | 2026-08-17 |

@@ -1,6 +1,6 @@
 # Startups
 
-52 episodes
+53 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -56,3 +56,4 @@
 | 148 | [Inside Anthropic’s Bet on Claude Agents that Work While You Sleep | Jess Yan](../transcripts/2026/148-inside-anthropics-bet-on-claude-agents-that-work-while-you-sleep-jess-yan.md) | Jess Yan | 2026-06-28 |
 | 153 | [How to Build AI Agents That Check Their Own Work | Jared Zoneraich](../transcripts/2026/153-how-to-build-ai-agents-that-check-their-own-work-jared-zoneraich.md) | Jared Zoneraich | 2026-07-12 |
 | 158 | [Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra](../transcripts/2026/158-hermes-co-founder-on-building-an-ai-agent-that-improves-itself-karan-malhotra.md) | Karan Malhotra | 2026-08-02 |
+| 161 | [Grok Bot: 5 Must-Try Use Cases for Work and Life (Full Tutorial)](../transcripts/2026/161-grok-bot-5-must-try-use-cases-for-work-and-life-full-tutorial.md) | Peter Yang | 2026-08-17 |

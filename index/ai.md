@@ -1,6 +1,6 @@
 # AI
 
-131 episodes
+133 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -135,3 +135,5 @@
 | 158 | [Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra](../transcripts/2026/158-hermes-co-founder-on-building-an-ai-agent-that-improves-itself-karan-malhotra.md) | Karan Malhotra | 2026-08-02 |
 | 159 | [5 Rules for Building AI Agents That Work in Production | Nan Yu & Jacob Shumway](../transcripts/2026/159-5-rules-for-building-ai-agents-that-work-in-production-nan-yu-jacob-shumway.md) | Nan Yu & Jacob Shumway | 2026-08-09 |
 | 160 | [How I Make Videos for 1.5M+ Followers With Codex | Riley Brown](../transcripts/2026/160-how-i-make-videos-for-1-5m-followers-with-codex-riley-brown.md) | Riley Brown | 2026-08-16 |
+| 161 | [Grok Bot: 5 Must-Try Use Cases for Work and Life (Full Tutorial)](../transcripts/2026/161-grok-bot-5-must-try-use-cases-for-work-and-life-full-tutorial.md) | Peter Yang | 2026-08-17 |
+| 162 | [How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel](../transcripts/2026/162-how-to-build-better-ai-evals-with-claude-code-in-5-steps-shreya-hamel.md) | Shreya & Hamel | 2026-08-23 |

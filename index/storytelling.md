@@ -1,6 +1,6 @@
 # Storytelling
 
-26 episodes
+27 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -30,3 +30,4 @@
 | 150 | [I Tested Gemini Spark: What Google’s AI Agent Can Actually Do in 21 Minutes](../transcripts/2026/150-i-tested-gemini-spark-what-googles-ai-agent-can-actually-do-in-21-minutes.md) | Peter Yang | 2026-07-03 |
 | 156 | [ChatGPT Work + Codex Tutorial: My Complete System at OpenAI | Jason Liu](../transcripts/2026/156-chatgpt-work-codex-tutorial-my-complete-system-at-openai-jason-liu.md) | Jason Liu | 2026-07-26 |
 | 160 | [How I Make Videos for 1.5M+ Followers With Codex | Riley Brown](../transcripts/2026/160-how-i-make-videos-for-1-5m-followers-with-codex-riley-brown.md) | Riley Brown | 2026-08-16 |
+| 161 | [Grok Bot: 5 Must-Try Use Cases for Work and Life (Full Tutorial)](../transcripts/2026/161-grok-bot-5-must-try-use-cases-for-work-and-life-full-tutorial.md) | Peter Yang | 2026-08-17 |

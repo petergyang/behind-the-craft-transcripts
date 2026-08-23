@@ -1,6 +1,6 @@
 # Pricing
 
-10 episodes
+11 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -14,3 +14,4 @@
 | 110 | [Full Tutorial: Set Up Your 24/7 AI Employee in 20 Minutes (OpenClaw)](../transcripts/2026/110-full-tutorial-set-up-your-247-ai-employee-in-20-minutes-openclaw.md) | Peter Yang | 2026-01-28 |
 | 132 | [How This Solo AI Founder Bootstrapped 5 Products to 1M+ / Month | Tibo Louis-Lucas](../transcripts/2026/132-how-this-solo-ai-founder-bootstrapped-5-products-to-1m-month-tibo-louis-lucas.md) | Tibo Louis-Lucas | 2026-04-26 |
 | 152 | [GPT-5.6 vs Claude Fable 5: I Tested 6 Real Use Cases (Here’s the Winner)](../transcripts/2026/152-gpt-5-6-vs-claude-fable-5-i-tested-6-real-use-cases-heres-the-winner.md) | Peter Yang | 2026-07-09 |
+| 161 | [Grok Bot: 5 Must-Try Use Cases for Work and Life (Full Tutorial)](../transcripts/2026/161-grok-bot-5-must-try-use-cases-for-work-and-life-full-tutorial.md) | Peter Yang | 2026-08-17 |

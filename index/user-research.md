@@ -1,6 +1,6 @@
 # User Research
 
-12 episodes
+13 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -16,3 +16,4 @@
 | 103 | [Full Tutorial: Build Your Personal OS with Claude Code in 50 Min | Teresa Torres](../transcripts/2025/103-full-tutorial-build-your-personal-os-with-claude-code-in-50-min-teresa-torres.md) | Teresa Torres | 2025-12-21 |
 | 125 | [Claude Cowork Tutorial from Cowork's Design Lead (40 Min) | Jenny Wen](../transcripts/2026/125-claude-cowork-tutorial-from-coworks-design-lead-40-min-jenny-wen.md) | Jenny Wen | 2026-03-29 |
 | 148 | [Inside Anthropic’s Bet on Claude Agents that Work While You Sleep | Jess Yan](../transcripts/2026/148-inside-anthropics-bet-on-claude-agents-that-work-while-you-sleep-jess-yan.md) | Jess Yan | 2026-06-28 |
+| 162 | [How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel](../transcripts/2026/162-how-to-build-better-ai-evals-with-claude-code-in-5-steps-shreya-hamel.md) | Shreya & Hamel | 2026-08-23 |
