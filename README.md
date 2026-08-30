@@ -1,10 +1,10 @@
 # Behind the Craft — Transcripts
 
-Full transcripts of [Behind the Craft](https://www.youtube.com/@peteryangYT), my YouTube channel where I share practical AI tutorials and interviews for busy people. 162 episodes and counting. Searchable. AI-friendly. Updated automatically from published videos.
+Full transcripts of [Behind the Craft](https://www.youtube.com/@peteryangYT), my YouTube channel where I share practical AI tutorials and interviews for busy people. 164 episodes and counting. Searchable. AI-friendly. Updated automatically from published videos.
 
 ## What you can build with this
 
-- **AI assistant** — Drop into ChatGPT, Claude, or NotebookLM to Q&A 162+ episodes of product and AI advice
+- **AI assistant** — Drop into ChatGPT, Claude, or NotebookLM to Q&A 164+ episodes of product and AI advice
 - **Content** — Find quotes, compile insights by topic, generate summaries for newsletters or social
 - **Research** — Browse the [topic index](index/README.md) for 22 topics like [AI](index/ai.md), [product management](index/product-management.md), [career growth](index/career-growth.md), [startups](index/startups.md)
 

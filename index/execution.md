@@ -1,6 +1,6 @@
 # Execution
 
-67 episodes
+68 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -71,3 +71,4 @@
 | 153 | [How to Build AI Agents That Check Their Own Work | Jared Zoneraich](../transcripts/2026/153-how-to-build-ai-agents-that-check-their-own-work-jared-zoneraich.md) | Jared Zoneraich | 2026-07-12 |
 | 155 | [How I Plan, Build, and Run Loops with Claude Code in 40 Minutes | Thariq Shihipar](../transcripts/2026/155-how-i-plan-build-and-run-loops-with-claude-code-in-40-minutes-thariq-shihipar.md) | Thariq Shihipar | 2026-07-19 |
 | 159 | [5 Rules for Building AI Agents That Work in Production | Nan Yu & Jacob Shumway](../transcripts/2026/159-5-rules-for-building-ai-agents-that-work-in-production-nan-yu-jacob-shumway.md) | Nan Yu & Jacob Shumway | 2026-08-09 |
+| 163 | [ChatGPT vs Claude vs Grok vs Gemini: The Best AI for 10 Use Cases (August 2026)](../transcripts/2026/163-chatgpt-vs-claude-vs-grok-vs-gemini-the-best-ai-for-10-use-cases-august-2026.md) | Peter Yang | 2026-08-26 |
