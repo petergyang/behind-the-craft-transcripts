@@ -1,6 +1,6 @@
 # Leadership
 
-108 episodes
+110 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -112,3 +112,5 @@
 | 158 | [Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra](../transcripts/2026/158-hermes-co-founder-on-building-an-ai-agent-that-improves-itself-karan-malhotra.md) | Karan Malhotra | 2026-08-02 |
 | 159 | [5 Rules for Building AI Agents That Work in Production | Nan Yu & Jacob Shumway](../transcripts/2026/159-5-rules-for-building-ai-agents-that-work-in-production-nan-yu-jacob-shumway.md) | Nan Yu & Jacob Shumway | 2026-08-09 |
 | 162 | [How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel](../transcripts/2026/162-how-to-build-better-ai-evals-with-claude-code-in-5-steps-shreya-hamel.md) | Shreya & Hamel | 2026-08-23 |
+| 165 | [Instinct vs Grok Bot vs ChatGPT vs Hermes: Which AI Agent Can You Trust?](../transcripts/2026/165-instinct-vs-grok-bot-vs-chatgpt-vs-hermes-which-ai-agent-can-you-trust.md) | Peter Yang | 2026-09-02 |
+| 166 | [GPT 6 Astra is the Best Model for Building Games (4 Real Examples)](../transcripts/2026/166-gpt-6-astra-is-the-best-model-for-building-games-4-real-examples.md) | Peter Yang | 2026-09-05 |

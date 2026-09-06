@@ -1,6 +1,6 @@
 # Execution
 
-68 episodes
+69 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -72,3 +72,4 @@
 | 155 | [How I Plan, Build, and Run Loops with Claude Code in 40 Minutes | Thariq Shihipar](../transcripts/2026/155-how-i-plan-build-and-run-loops-with-claude-code-in-40-minutes-thariq-shihipar.md) | Thariq Shihipar | 2026-07-19 |
 | 159 | [5 Rules for Building AI Agents That Work in Production | Nan Yu & Jacob Shumway](../transcripts/2026/159-5-rules-for-building-ai-agents-that-work-in-production-nan-yu-jacob-shumway.md) | Nan Yu & Jacob Shumway | 2026-08-09 |
 | 163 | [ChatGPT vs Claude vs Grok vs Gemini: The Best AI for 10 Use Cases (August 2026)](../transcripts/2026/163-chatgpt-vs-claude-vs-grok-vs-gemini-the-best-ai-for-10-use-cases-august-2026.md) | Peter Yang | 2026-08-26 |
+| 166 | [GPT 6 Astra is the Best Model for Building Games (4 Real Examples)](../transcripts/2026/166-gpt-6-astra-is-the-best-model-for-building-games-4-real-examples.md) | Peter Yang | 2026-09-05 |

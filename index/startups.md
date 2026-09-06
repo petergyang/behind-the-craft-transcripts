@@ -1,6 +1,6 @@
 # Startups
 
-54 episodes
+56 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -58,3 +58,5 @@
 | 158 | [Hermes Co-Founder on Building an AI Agent That Improves Itself | Karan Malhotra](../transcripts/2026/158-hermes-co-founder-on-building-an-ai-agent-that-improves-itself-karan-malhotra.md) | Karan Malhotra | 2026-08-02 |
 | 161 | [Grok Bot: 5 Must-Try Use Cases for Work and Life (Full Tutorial)](../transcripts/2026/161-grok-bot-5-must-try-use-cases-for-work-and-life-full-tutorial.md) | Peter Yang | 2026-08-17 |
 | 164 | [How Non-Coders Are Vibe Coding $100K+ Businesses with AI | Amol Jain](../transcripts/2026/164-how-non-coders-are-vibe-coding-100k-businesses-with-ai-amol-jain.md) | Amol Jain | 2026-08-30 |
+| 166 | [GPT 6 Astra is the Best Model for Building Games (4 Real Examples)](../transcripts/2026/166-gpt-6-astra-is-the-best-model-for-building-games-4-real-examples.md) | Peter Yang | 2026-09-05 |
+| 167 | [AI Makes Cheating Easy. Here’s How It Can Make Kids Smarter Instead | Sue Khim](../transcripts/2026/167-ai-makes-cheating-easy-heres-how-it-can-make-kids-smarter-instead-sue-khim.md) | Sue Khim | 2026-09-06 |

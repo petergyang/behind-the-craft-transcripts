@@ -1,6 +1,6 @@
 # Metrics
 
-11 episodes
+12 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -15,3 +15,4 @@
 | 092 | [Full Tutorial: Vibe Code a Real SaaS App in 40 Minutes | Colin Matthews](../transcripts/2025/092-full-tutorial-vibe-code-a-real-saas-app-in-40-minutes-colin-matthews.md) | Colin Matthews | 2025-11-02 |
 | 107 | [Build an AI Analyst with Claude Code in 50 Min | Sumeet Marwaha](../transcripts/2026/107-build-an-ai-analyst-with-claude-code-in-50-min-sumeet-marwaha.md) | Sumeet Marwaha | 2026-01-18 |
 | 112 | [Master OpenClaw in 30 Minutes (5 Real Use Cases + Setup + Memory)](../transcripts/2026/112-master-openclaw-in-30-minutes-5-real-use-cases-setup-memory.md) | Peter Yang | 2026-02-04 |
+| 165 | [Instinct vs Grok Bot vs ChatGPT vs Hermes: Which AI Agent Can You Trust?](../transcripts/2026/165-instinct-vs-grok-bot-vs-chatgpt-vs-hermes-which-ai-agent-can-you-trust.md) | Peter Yang | 2026-09-02 |

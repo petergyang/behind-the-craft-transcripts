@@ -1,6 +1,6 @@
 # Design
 
-34 episodes
+36 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -38,3 +38,5 @@
 | 134 | [Everything You Need to Know About Context Engineering in 40 Minutes | Ravi Mehta](../transcripts/2026/134-everything-you-need-to-know-about-context-engineering-in-40-minutes-ravi-mehta.md) | Ravi Mehta | 2026-05-03 |
 | 142 | [How This Ex-Meta L8 Engineer Ships 40 PRs a Day with AI Agents | Kun Chen](../transcripts/2026/142-how-this-ex-meta-l8-engineer-ships-40-prs-a-day-with-ai-agents-kun-chen.md) | Kun Chen | 2026-06-07 |
 | 157 | [Full Tutorial: From Idea to App with Claude Design and Claude Code in 25 Minutes](../transcripts/2026/157-full-tutorial-from-idea-to-app-with-claude-design-and-claude-code-in-25-minutes.md) | Peter Yang | 2026-07-29 |
+| 165 | [Instinct vs Grok Bot vs ChatGPT vs Hermes: Which AI Agent Can You Trust?](../transcripts/2026/165-instinct-vs-grok-bot-vs-chatgpt-vs-hermes-which-ai-agent-can-you-trust.md) | Peter Yang | 2026-09-02 |
+| 167 | [AI Makes Cheating Easy. Here’s How It Can Make Kids Smarter Instead | Sue Khim](../transcripts/2026/167-ai-makes-cheating-easy-heres-how-it-can-make-kids-smarter-instead-sue-khim.md) | Sue Khim | 2026-09-06 |
