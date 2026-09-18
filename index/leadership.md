@@ -1,6 +1,6 @@
 # Leadership
 
-110 episodes
+112 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -114,3 +114,5 @@
 | 162 | [How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel](../transcripts/2026/162-how-to-build-better-ai-evals-with-claude-code-in-5-steps-shreya-hamel.md) | Shreya & Hamel | 2026-08-23 |
 | 165 | [Instinct vs Grok Bot vs ChatGPT vs Hermes: Which AI Agent Can You Trust?](../transcripts/2026/165-instinct-vs-grok-bot-vs-chatgpt-vs-hermes-which-ai-agent-can-you-trust.md) | Peter Yang | 2026-09-02 |
 | 166 | [GPT 6 Astra is the Best Model for Building Games (4 Real Examples)](../transcripts/2026/166-gpt-6-astra-is-the-best-model-for-building-games-4-real-examples.md) | Peter Yang | 2026-09-05 |
+| 168 | [Stop Building AI Agents. Build AI Employees Instead (Live Demo) | Pedro Franceschi](../transcripts/2026/168-stop-building-ai-agents-build-ai-employees-instead-live-demo-pedro-franceschi.md) | Pedro Franceschi | 2026-09-13 |
+| 169 | [11 Grok Bots I Use Every Day (After 100+ Hours)](../transcripts/2026/169-11-grok-bots-i-use-every-day-after-100-hours.md) | Peter Yang | 2026-09-14 |

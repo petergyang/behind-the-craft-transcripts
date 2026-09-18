@@ -1,6 +1,6 @@
 # Metrics
 
-12 episodes
+13 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -16,3 +16,4 @@
 | 107 | [Build an AI Analyst with Claude Code in 50 Min | Sumeet Marwaha](../transcripts/2026/107-build-an-ai-analyst-with-claude-code-in-50-min-sumeet-marwaha.md) | Sumeet Marwaha | 2026-01-18 |
 | 112 | [Master OpenClaw in 30 Minutes (5 Real Use Cases + Setup + Memory)](../transcripts/2026/112-master-openclaw-in-30-minutes-5-real-use-cases-setup-memory.md) | Peter Yang | 2026-02-04 |
 | 165 | [Instinct vs Grok Bot vs ChatGPT vs Hermes: Which AI Agent Can You Trust?](../transcripts/2026/165-instinct-vs-grok-bot-vs-chatgpt-vs-hermes-which-ai-agent-can-you-trust.md) | Peter Yang | 2026-09-02 |
+| 168 | [Stop Building AI Agents. Build AI Employees Instead (Live Demo) | Pedro Franceschi](../transcripts/2026/168-stop-building-ai-agents-build-ai-employees-instead-live-demo-pedro-franceschi.md) | Pedro Franceschi | 2026-09-13 |

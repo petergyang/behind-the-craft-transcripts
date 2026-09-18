@@ -1,6 +1,6 @@
 # Career Growth
 
-17 episodes
+18 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -21,3 +21,4 @@
 | 090 | [AI Agents, Clearly Explained in 40 Minutes | Wade Foster (Zapier)](../transcripts/2025/090-ai-agents-clearly-explained-in-40-minutes-wade-foster-zapier.md) | Wade Foster | 2025-10-26 |
 | 127 | [How OpenAI's Codex Team Builds with Codex (43 Min) | Alex & Romain](../transcripts/2026/127-how-openais-codex-team-builds-with-codex-43-min-alex-romain.md) | Alex & Romain | 2026-04-05 |
 | 143 | [I Quit My High Paying Product Job to Bet on Myself](../transcripts/2026/143-i-quit-my-high-paying-product-job-to-bet-on-myself.md) | Peter Yang | 2026-06-10 |
+| 170 | [How I Automated 90% of My Content Workflow (With ChatGPT + Riverside)](../transcripts/2026/170-how-i-automated-90-of-my-content-workflow-with-chatgpt-riverside.md) | Peter Yang | 2026-09-16 |

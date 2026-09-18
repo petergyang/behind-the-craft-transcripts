@@ -1,6 +1,6 @@
 # Productivity
 
-10 episodes
+12 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -14,3 +14,5 @@
 | 150 | [I Tested Gemini Spark: What Google’s AI Agent Can Actually Do in 21 Minutes](../transcripts/2026/150-i-tested-gemini-spark-what-googles-ai-agent-can-actually-do-in-21-minutes.md) | Peter Yang | 2026-07-03 |
 | 152 | [GPT-5.6 vs Claude Fable 5: I Tested 6 Real Use Cases (Here’s the Winner)](../transcripts/2026/152-gpt-5-6-vs-claude-fable-5-i-tested-6-real-use-cases-heres-the-winner.md) | Peter Yang | 2026-07-09 |
 | 154 | [How I Use ChatGPT Work and GPT-5.6 to Do Everything (Beginner Tutorial)](../transcripts/2026/154-how-i-use-chatgpt-work-and-gpt-5-6-to-do-everything-beginner-tutorial.md) | Peter Yang | 2026-07-15 |
+| 168 | [Stop Building AI Agents. Build AI Employees Instead (Live Demo) | Pedro Franceschi](../transcripts/2026/168-stop-building-ai-agents-build-ai-employees-instead-live-demo-pedro-franceschi.md) | Pedro Franceschi | 2026-09-13 |
+| 170 | [How I Automated 90% of My Content Workflow (With ChatGPT + Riverside)](../transcripts/2026/170-how-i-automated-90-of-my-content-workflow-with-chatgpt-riverside.md) | Peter Yang | 2026-09-16 |

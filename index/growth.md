@@ -1,6 +1,6 @@
 # Growth
 
-12 episodes
+14 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -16,3 +16,5 @@
 | 111 | [How OpenClaw's Creator Uses AI to Run His Life in 40 Minutes | Peter Steinberger](../transcripts/2026/111-how-openclaws-creator-uses-ai-to-run-his-life-in-40-minutes-peter-steinberger.md) | Peter Steinberger | 2026-02-01 |
 | 132 | [How This Solo AI Founder Bootstrapped 5 Products to 1M+ / Month | Tibo Louis-Lucas](../transcripts/2026/132-how-this-solo-ai-founder-bootstrapped-5-products-to-1m-month-tibo-louis-lucas.md) | Tibo Louis-Lucas | 2026-04-26 |
 | 145 | [How I Turned Codex Into My AI Life Coach in 13 Minutes (5-Step Tutorial)](../transcripts/2026/145-how-i-turned-codex-into-my-ai-life-coach-in-13-minutes-5-step-tutorial.md) | Peter Yang | 2026-06-17 |
+| 169 | [11 Grok Bots I Use Every Day (After 100+ Hours)](../transcripts/2026/169-11-grok-bots-i-use-every-day-after-100-hours.md) | Peter Yang | 2026-09-14 |
+| 170 | [How I Automated 90% of My Content Workflow (With ChatGPT + Riverside)](../transcripts/2026/170-how-i-automated-90-of-my-content-workflow-with-chatgpt-riverside.md) | Peter Yang | 2026-09-16 |

@@ -1,6 +1,6 @@
 # Coding
 
-69 episodes
+70 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -73,3 +73,4 @@
 | 163 | [ChatGPT vs Claude vs Grok vs Gemini: The Best AI for 10 Use Cases (August 2026)](../transcripts/2026/163-chatgpt-vs-claude-vs-grok-vs-gemini-the-best-ai-for-10-use-cases-august-2026.md) | Peter Yang | 2026-08-26 |
 | 164 | [How Non-Coders Are Vibe Coding $100K+ Businesses with AI | Amol Jain](../transcripts/2026/164-how-non-coders-are-vibe-coding-100k-businesses-with-ai-amol-jain.md) | Amol Jain | 2026-08-30 |
 | 167 | [AI Makes Cheating Easy. Here’s How It Can Make Kids Smarter Instead | Sue Khim](../transcripts/2026/167-ai-makes-cheating-easy-heres-how-it-can-make-kids-smarter-instead-sue-khim.md) | Sue Khim | 2026-09-06 |
+| 169 | [11 Grok Bots I Use Every Day (After 100+ Hours)](../transcripts/2026/169-11-grok-bots-i-use-every-day-after-100-hours.md) | Peter Yang | 2026-09-14 |
