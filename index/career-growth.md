@@ -1,6 +1,6 @@
 # Career Growth
 
-18 episodes
+19 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -22,3 +22,4 @@
 | 127 | [How OpenAI's Codex Team Builds with Codex (43 Min) | Alex & Romain](../transcripts/2026/127-how-openais-codex-team-builds-with-codex-43-min-alex-romain.md) | Alex & Romain | 2026-04-05 |
 | 143 | [I Quit My High Paying Product Job to Bet on Myself](../transcripts/2026/143-i-quit-my-high-paying-product-job-to-bet-on-myself.md) | Peter Yang | 2026-06-10 |
 | 170 | [How I Automated 90% of My Content Workflow (With ChatGPT + Riverside)](../transcripts/2026/170-how-i-automated-90-of-my-content-workflow-with-chatgpt-riverside.md) | Peter Yang | 2026-09-16 |
+| 171 | [Meta’s Muse AI Agent Saved Me $800+ a Year on My Bills (10 Real Use Cases)](../transcripts/2026/171-metas-muse-ai-agent-saved-me-800-a-year-on-my-bills-10-real-use-cases.md) | Peter Yang | 2026-09-18 |

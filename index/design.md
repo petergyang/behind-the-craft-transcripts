@@ -1,6 +1,6 @@
 # Design
 
-36 episodes
+38 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -40,3 +40,5 @@
 | 157 | [Full Tutorial: From Idea to App with Claude Design and Claude Code in 25 Minutes](../transcripts/2026/157-full-tutorial-from-idea-to-app-with-claude-design-and-claude-code-in-25-minutes.md) | Peter Yang | 2026-07-29 |
 | 165 | [Instinct vs Grok Bot vs ChatGPT vs Hermes: Which AI Agent Can You Trust?](../transcripts/2026/165-instinct-vs-grok-bot-vs-chatgpt-vs-hermes-which-ai-agent-can-you-trust.md) | Peter Yang | 2026-09-02 |
 | 167 | [AI Makes Cheating Easy. Here’s How It Can Make Kids Smarter Instead | Sue Khim](../transcripts/2026/167-ai-makes-cheating-easy-heres-how-it-can-make-kids-smarter-instead-sue-khim.md) | Sue Khim | 2026-09-06 |
+| 172 | [How to Save Money Now with ChatGPT Finances (6 Real Use Cases) | Ethan Bloch](../transcripts/2026/172-how-to-save-money-now-with-chatgpt-finances-6-real-use-cases-ethan-bloch.md) | Ethan Bloch | 2026-09-20 |
+| 173 | [Claude Opus 5.5 is Here! Is Claude Finally Back? (5 Use Cases Tested)](../transcripts/2026/173-claude-opus-5-5-is-here-is-claude-finally-back-5-use-cases-tested.md) | Peter Yang | 2026-09-22 |

@@ -1,6 +1,6 @@
 # Pricing
 
-12 episodes
+13 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -16,3 +16,4 @@
 | 152 | [GPT-5.6 vs Claude Fable 5: I Tested 6 Real Use Cases (Here’s the Winner)](../transcripts/2026/152-gpt-5-6-vs-claude-fable-5-i-tested-6-real-use-cases-heres-the-winner.md) | Peter Yang | 2026-07-09 |
 | 161 | [Grok Bot: 5 Must-Try Use Cases for Work and Life (Full Tutorial)](../transcripts/2026/161-grok-bot-5-must-try-use-cases-for-work-and-life-full-tutorial.md) | Peter Yang | 2026-08-17 |
 | 164 | [How Non-Coders Are Vibe Coding $100K+ Businesses with AI | Amol Jain](../transcripts/2026/164-how-non-coders-are-vibe-coding-100k-businesses-with-ai-amol-jain.md) | Amol Jain | 2026-08-30 |
+| 172 | [How to Save Money Now with ChatGPT Finances (6 Real Use Cases) | Ethan Bloch](../transcripts/2026/172-how-to-save-money-now-with-chatgpt-finances-6-real-use-cases-ethan-bloch.md) | Ethan Bloch | 2026-09-20 |

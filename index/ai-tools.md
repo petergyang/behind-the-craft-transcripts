@@ -1,6 +1,6 @@
 # AI Tools
 
-70 episodes
+71 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -74,3 +74,4 @@
 | 161 | [Grok Bot: 5 Must-Try Use Cases for Work and Life (Full Tutorial)](../transcripts/2026/161-grok-bot-5-must-try-use-cases-for-work-and-life-full-tutorial.md) | Peter Yang | 2026-08-17 |
 | 163 | [ChatGPT vs Claude vs Grok vs Gemini: The Best AI for 10 Use Cases (August 2026)](../transcripts/2026/163-chatgpt-vs-claude-vs-grok-vs-gemini-the-best-ai-for-10-use-cases-august-2026.md) | Peter Yang | 2026-08-26 |
 | 164 | [How Non-Coders Are Vibe Coding $100K+ Businesses with AI | Amol Jain](../transcripts/2026/164-how-non-coders-are-vibe-coding-100k-businesses-with-ai-amol-jain.md) | Amol Jain | 2026-08-30 |
+| 173 | [Claude Opus 5.5 is Here! Is Claude Finally Back? (5 Use Cases Tested)](../transcripts/2026/173-claude-opus-5-5-is-here-is-claude-finally-back-5-use-cases-tested.md) | Peter Yang | 2026-09-22 |

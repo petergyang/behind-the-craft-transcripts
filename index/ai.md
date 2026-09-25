@@ -1,6 +1,6 @@
 # AI
 
-141 episodes
+144 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -145,3 +145,6 @@
 | 168 | [Stop Building AI Agents. Build AI Employees Instead (Live Demo) | Pedro Franceschi](../transcripts/2026/168-stop-building-ai-agents-build-ai-employees-instead-live-demo-pedro-franceschi.md) | Pedro Franceschi | 2026-09-13 |
 | 169 | [11 Grok Bots I Use Every Day (After 100+ Hours)](../transcripts/2026/169-11-grok-bots-i-use-every-day-after-100-hours.md) | Peter Yang | 2026-09-14 |
 | 170 | [How I Automated 90% of My Content Workflow (With ChatGPT + Riverside)](../transcripts/2026/170-how-i-automated-90-of-my-content-workflow-with-chatgpt-riverside.md) | Peter Yang | 2026-09-16 |
+| 171 | [Meta’s Muse AI Agent Saved Me $800+ a Year on My Bills (10 Real Use Cases)](../transcripts/2026/171-metas-muse-ai-agent-saved-me-800-a-year-on-my-bills-10-real-use-cases.md) | Peter Yang | 2026-09-18 |
+| 172 | [How to Save Money Now with ChatGPT Finances (6 Real Use Cases) | Ethan Bloch](../transcripts/2026/172-how-to-save-money-now-with-chatgpt-finances-6-real-use-cases-ethan-bloch.md) | Ethan Bloch | 2026-09-20 |
+| 173 | [Claude Opus 5.5 is Here! Is Claude Finally Back? (5 Use Cases Tested)](../transcripts/2026/173-claude-opus-5-5-is-here-is-claude-finally-back-5-use-cases-tested.md) | Peter Yang | 2026-09-22 |

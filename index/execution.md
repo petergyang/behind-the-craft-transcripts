@@ -1,6 +1,6 @@
 # Execution
 
-69 episodes
+70 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -73,3 +73,4 @@
 | 159 | [5 Rules for Building AI Agents That Work in Production | Nan Yu & Jacob Shumway](../transcripts/2026/159-5-rules-for-building-ai-agents-that-work-in-production-nan-yu-jacob-shumway.md) | Nan Yu & Jacob Shumway | 2026-08-09 |
 | 163 | [ChatGPT vs Claude vs Grok vs Gemini: The Best AI for 10 Use Cases (August 2026)](../transcripts/2026/163-chatgpt-vs-claude-vs-grok-vs-gemini-the-best-ai-for-10-use-cases-august-2026.md) | Peter Yang | 2026-08-26 |
 | 166 | [GPT 6 Astra is the Best Model for Building Games (4 Real Examples)](../transcripts/2026/166-gpt-6-astra-is-the-best-model-for-building-games-4-real-examples.md) | Peter Yang | 2026-09-05 |
+| 173 | [Claude Opus 5.5 is Here! Is Claude Finally Back? (5 Use Cases Tested)](../transcripts/2026/173-claude-opus-5-5-is-here-is-claude-finally-back-5-use-cases-tested.md) | Peter Yang | 2026-09-22 |
