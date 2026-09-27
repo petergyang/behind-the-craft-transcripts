@@ -1,6 +1,6 @@
 # Product Management
 
-84 episodes
+85 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -88,3 +88,4 @@
 | 167 | [AI Makes Cheating Easy. Here’s How It Can Make Kids Smarter Instead | Sue Khim](../transcripts/2026/167-ai-makes-cheating-easy-heres-how-it-can-make-kids-smarter-instead-sue-khim.md) | Sue Khim | 2026-09-06 |
 | 168 | [Stop Building AI Agents. Build AI Employees Instead (Live Demo) | Pedro Franceschi](../transcripts/2026/168-stop-building-ai-agents-build-ai-employees-instead-live-demo-pedro-franceschi.md) | Pedro Franceschi | 2026-09-13 |
 | 172 | [How to Save Money Now with ChatGPT Finances (6 Real Use Cases) | Ethan Bloch](../transcripts/2026/172-how-to-save-money-now-with-chatgpt-finances-6-real-use-cases-ethan-bloch.md) | Ethan Bloch | 2026-09-20 |
+| 174 | [We Built Grok Bot. Here Are Our 14 Best Bots | Peng Zheng & Lauren Tan](../transcripts/2026/174-we-built-grok-bot-here-are-our-14-best-bots-peng-zheng-lauren-tan.md) | Peng Zheng & Lauren Tan | 2026-09-27 |
