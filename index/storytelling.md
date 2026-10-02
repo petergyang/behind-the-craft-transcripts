@@ -1,6 +1,6 @@
 # Storytelling
 
-30 episodes
+31 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -34,3 +34,4 @@
 | 163 | [ChatGPT vs Claude vs Grok vs Gemini: The Best AI for 10 Use Cases (August 2026)](../transcripts/2026/163-chatgpt-vs-claude-vs-grok-vs-gemini-the-best-ai-for-10-use-cases-august-2026.md) | Peter Yang | 2026-08-26 |
 | 170 | [How I Automated 90% of My Content Workflow (With ChatGPT + Riverside)](../transcripts/2026/170-how-i-automated-90-of-my-content-workflow-with-chatgpt-riverside.md) | Peter Yang | 2026-09-16 |
 | 171 | [Meta’s Muse AI Agent Saved Me $800+ a Year on My Bills (10 Real Use Cases)](../transcripts/2026/171-metas-muse-ai-agent-saved-me-800-a-year-on-my-bills-10-real-use-cases.md) | Peter Yang | 2026-09-18 |
+| 176 | [ChatGPT's NEW Dots: Everything You Need To Know](../transcripts/2026/176-chatgpts-new-dots-everything-you-need-to-know.md) | Peter Yang | 2026-09-29 |

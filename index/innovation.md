@@ -1,6 +1,6 @@
 # Innovation
 
-6 episodes
+7 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -10,3 +10,4 @@
 | 085 | [Full Tutorial: Build an AI Headshot App in 15 Minutes (Google Nano Banana)](../transcripts/2025/085-full-tutorial-build-an-ai-headshot-app-in-15-minutes-google-nano-banana.md) | Peter Yang | 2025-10-01 |
 | 159 | [5 Rules for Building AI Agents That Work in Production | Nan Yu & Jacob Shumway](../transcripts/2026/159-5-rules-for-building-ai-agents-that-work-in-production-nan-yu-jacob-shumway.md) | Nan Yu & Jacob Shumway | 2026-08-09 |
 | 160 | [How I Make Videos for 1.5M+ Followers With Codex | Riley Brown](../transcripts/2026/160-how-i-make-videos-for-1-5m-followers-with-codex-riley-brown.md) | Riley Brown | 2026-08-16 |
+| 175 | [Sonnet 5.5 is Here! It's Insane at Making Videos (7 Incredible Examples)](../transcripts/2026/175-sonnet-5-5-is-here-its-insane-at-making-videos-7-incredible-examples.md) | Peter Yang | 2026-09-28 |
