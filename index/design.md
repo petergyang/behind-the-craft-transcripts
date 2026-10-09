@@ -1,6 +1,6 @@
 # Design
 
-38 episodes
+39 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -42,3 +42,4 @@
 | 167 | [AI Makes Cheating Easy. Here’s How It Can Make Kids Smarter Instead | Sue Khim](../transcripts/2026/167-ai-makes-cheating-easy-heres-how-it-can-make-kids-smarter-instead-sue-khim.md) | Sue Khim | 2026-09-06 |
 | 172 | [How to Save Money Now with ChatGPT Finances (6 Real Use Cases) | Ethan Bloch](../transcripts/2026/172-how-to-save-money-now-with-chatgpt-finances-6-real-use-cases-ethan-bloch.md) | Ethan Bloch | 2026-09-20 |
 | 173 | [Claude Opus 5.5 is Here! Is Claude Finally Back? (5 Use Cases Tested)](../transcripts/2026/173-claude-opus-5-5-is-here-is-claude-finally-back-5-use-cases-tested.md) | Peter Yang | 2026-09-22 |
+| 177 | [How to Use AI to Survive (and Even Enjoy) Meetings | Sam Stephenson](../transcripts/2026/177-how-to-use-ai-to-survive-and-even-enjoy-meetings-sam-stephenson.md) | Sam Stephenson | 2026-10-04 |

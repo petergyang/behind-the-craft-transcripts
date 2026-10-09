@@ -1,6 +1,6 @@
 # Big Tech
 
-31 episodes
+32 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -35,3 +35,4 @@
 | 156 | [ChatGPT Work + Codex Tutorial: My Complete System at OpenAI | Jason Liu](../transcripts/2026/156-chatgpt-work-codex-tutorial-my-complete-system-at-openai-jason-liu.md) | Jason Liu | 2026-07-26 |
 | 160 | [How I Make Videos for 1.5M+ Followers With Codex | Riley Brown](../transcripts/2026/160-how-i-make-videos-for-1-5m-followers-with-codex-riley-brown.md) | Riley Brown | 2026-08-16 |
 | 165 | [Instinct vs Grok Bot vs ChatGPT vs Hermes: Which AI Agent Can You Trust?](../transcripts/2026/165-instinct-vs-grok-bot-vs-chatgpt-vs-hermes-which-ai-agent-can-you-trust.md) | Peter Yang | 2026-09-02 |
+| 178 | [Build an AI Language Tutor You Can Talk To (6 Steps)](../transcripts/2026/178-build-an-ai-language-tutor-you-can-talk-to-6-steps.md) | Peter Yang | 2026-10-05 |

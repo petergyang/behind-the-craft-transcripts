@@ -1,6 +1,6 @@
 # Execution
 
-72 episodes
+73 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -76,3 +76,4 @@
 | 173 | [Claude Opus 5.5 is Here! Is Claude Finally Back? (5 Use Cases Tested)](../transcripts/2026/173-claude-opus-5-5-is-here-is-claude-finally-back-5-use-cases-tested.md) | Peter Yang | 2026-09-22 |
 | 175 | [Sonnet 5.5 is Here! It's Insane at Making Videos (7 Incredible Examples)](../transcripts/2026/175-sonnet-5-5-is-here-its-insane-at-making-videos-7-incredible-examples.md) | Peter Yang | 2026-09-28 |
 | 176 | [ChatGPT's NEW Dots: Everything You Need To Know](../transcripts/2026/176-chatgpts-new-dots-everything-you-need-to-know.md) | Peter Yang | 2026-09-29 |
+| 178 | [Build an AI Language Tutor You Can Talk To (6 Steps)](../transcripts/2026/178-build-an-ai-language-tutor-you-can-talk-to-6-steps.md) | Peter Yang | 2026-10-05 |

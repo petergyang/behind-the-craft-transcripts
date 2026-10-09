@@ -1,6 +1,6 @@
 # AI
 
-147 episodes
+149 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -151,3 +151,5 @@
 | 174 | [We Built Grok Bot. Here Are Our 14 Best Bots | Peng Zheng & Lauren Tan](../transcripts/2026/174-we-built-grok-bot-here-are-our-14-best-bots-peng-zheng-lauren-tan.md) | Peng Zheng & Lauren Tan | 2026-09-27 |
 | 175 | [Sonnet 5.5 is Here! It's Insane at Making Videos (7 Incredible Examples)](../transcripts/2026/175-sonnet-5-5-is-here-its-insane-at-making-videos-7-incredible-examples.md) | Peter Yang | 2026-09-28 |
 | 176 | [ChatGPT's NEW Dots: Everything You Need To Know](../transcripts/2026/176-chatgpts-new-dots-everything-you-need-to-know.md) | Peter Yang | 2026-09-29 |
+| 177 | [How to Use AI to Survive (and Even Enjoy) Meetings | Sam Stephenson](../transcripts/2026/177-how-to-use-ai-to-survive-and-even-enjoy-meetings-sam-stephenson.md) | Sam Stephenson | 2026-10-04 |
+| 178 | [Build an AI Language Tutor You Can Talk To (6 Steps)](../transcripts/2026/178-build-an-ai-language-tutor-you-can-talk-to-6-steps.md) | Peter Yang | 2026-10-05 |

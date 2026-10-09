@@ -1,6 +1,6 @@
 # Culture
 
-43 episodes
+44 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -47,3 +47,4 @@
 | 151 | [Inside How OpenAI Uses Codex to Do Product Work | Rohan Varma](../transcripts/2026/151-inside-how-openai-uses-codex-to-do-product-work-rohan-varma.md) | Rohan Varma | 2026-07-05 |
 | 154 | [How I Use ChatGPT Work and GPT-5.6 to Do Everything (Beginner Tutorial)](../transcripts/2026/154-how-i-use-chatgpt-work-and-gpt-5-6-to-do-everything-beginner-tutorial.md) | Peter Yang | 2026-07-15 |
 | 172 | [How to Save Money Now with ChatGPT Finances (6 Real Use Cases) | Ethan Bloch](../transcripts/2026/172-how-to-save-money-now-with-chatgpt-finances-6-real-use-cases-ethan-bloch.md) | Ethan Bloch | 2026-09-20 |
+| 177 | [How to Use AI to Survive (and Even Enjoy) Meetings | Sam Stephenson](../transcripts/2026/177-how-to-use-ai-to-survive-and-even-enjoy-meetings-sam-stephenson.md) | Sam Stephenson | 2026-10-04 |
