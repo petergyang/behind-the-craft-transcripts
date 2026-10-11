@@ -1,12 +1,13 @@
 #!/usr/bin/env bash
-# Weekly transcript archive sync: fetch new episodes, validate, commit only
+# Transcript archive sync: fetch new episodes, validate, commit only
 # updater-owned paths, push, then rebuild the personal-os search index.
 # Never pulls, merges, rebases, resets, or force-pushes. Prints a JSON summary.
 set -euo pipefail
 
 REPO="/Users/peteryang/Projects/behind-the-craft-transcripts"
 PERSONAL_OS="/Users/peteryang/Projects/personal-os"
-PY=/usr/bin/python3
+# Use the maintained runtime consistently, including the local search index.
+PY=/opt/homebrew/bin/python3
 cd "$REPO"
 
 fail() { echo "{\"status\":\"failed\",\"reason\":\"$1\"}"; exit 1; }
@@ -52,12 +53,12 @@ read -r BEHIND AHEAD <<<"$(git fetch origin >/dev/null 2>&1; git rev-list --left
 POST_STATUS="$(git status --short)"
 
 cd "$PERSONAL_OS"
-python3 scripts/reference_index.py >/dev/null
-S1="$(python3 scripts/search_reference.py "reward hacked" --source transcript --limit 1)"
-S2="$(python3 scripts/search_reference.py "Codex product work" --source newsletter --limit 1)"
+"$PY" scripts/reference_index.py >/dev/null
+S1="$("$PY" scripts/search_reference.py "reward hacked" --source transcript --limit 1)"
+S2="$("$PY" scripts/search_reference.py "Codex product work" --source newsletter --limit 1)"
 [ -n "$S1" ] && [ -n "$S2" ] || fail "search verification returned no result"
 
-python3 - "$COMMIT" "${#STAGE[@]}" "$PRE_STATUS" "$POST_STATUS" <<'EOF'
+"$PY" - "$COMMIT" "${#STAGE[@]}" "$PRE_STATUS" "$POST_STATUS" <<'EOF'
 import json, sys
 commit, staged, pre, post = sys.argv[1:5]
 print(json.dumps({
