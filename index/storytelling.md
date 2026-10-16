@@ -1,6 +1,6 @@
 # Storytelling
 
-32 episodes
+33 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -36,3 +36,4 @@
 | 171 | [Meta’s Muse AI Agent Saved Me $800+ a Year on My Bills (10 Real Use Cases)](../transcripts/2026/171-metas-muse-ai-agent-saved-me-800-a-year-on-my-bills-10-real-use-cases.md) | Peter Yang | 2026-09-18 |
 | 176 | [ChatGPT's NEW Dots: Everything You Need To Know](../transcripts/2026/176-chatgpts-new-dots-everything-you-need-to-know.md) | Peter Yang | 2026-09-29 |
 | 179 | [The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Ras Mic](../transcripts/2026/179-the-4-step-agentic-engineering-workflow-i-use-to-ship-real-apps-ras-mic.md) | Ras Mic | 2026-10-11 |
+| 181 | [I Tested Gemini 4 vs Opus 5.5 vs GPT-6 Astra vs Muse Wonder (5 Use Cases)](../transcripts/2026/181-i-tested-gemini-4-vs-opus-5-5-vs-gpt-6-astra-vs-muse-wonder-5-use-cases.md) | Peter Yang | 2026-10-13 |

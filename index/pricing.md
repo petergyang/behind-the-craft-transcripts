@@ -1,6 +1,6 @@
 # Pricing
 
-14 episodes
+15 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -18,3 +18,4 @@
 | 164 | [How Non-Coders Are Vibe Coding $100K+ Businesses with AI | Amol Jain](../transcripts/2026/164-how-non-coders-are-vibe-coding-100k-businesses-with-ai-amol-jain.md) | Amol Jain | 2026-08-30 |
 | 172 | [How to Save Money Now with ChatGPT Finances (6 Real Use Cases) | Ethan Bloch](../transcripts/2026/172-how-to-save-money-now-with-chatgpt-finances-6-real-use-cases-ethan-bloch.md) | Ethan Bloch | 2026-09-20 |
 | 176 | [ChatGPT's NEW Dots: Everything You Need To Know](../transcripts/2026/176-chatgpts-new-dots-everything-you-need-to-know.md) | Peter Yang | 2026-09-29 |
+| 180 | [Grok Bot Just Got a Massive Upgrade (It’s Scary Good)](../transcripts/2026/180-grok-bot-just-got-a-massive-upgrade-its-scary-good.md) | Peter Yang | 2026-10-12 |

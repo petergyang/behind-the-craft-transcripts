@@ -1,6 +1,6 @@
 # Metrics
 
-13 episodes
+14 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -17,3 +17,4 @@
 | 112 | [Master OpenClaw in 30 Minutes (5 Real Use Cases + Setup + Memory)](../transcripts/2026/112-master-openclaw-in-30-minutes-5-real-use-cases-setup-memory.md) | Peter Yang | 2026-02-04 |
 | 165 | [Instinct vs Grok Bot vs ChatGPT vs Hermes: Which AI Agent Can You Trust?](../transcripts/2026/165-instinct-vs-grok-bot-vs-chatgpt-vs-hermes-which-ai-agent-can-you-trust.md) | Peter Yang | 2026-09-02 |
 | 168 | [Stop Building AI Agents. Build AI Employees Instead (Live Demo) | Pedro Franceschi](../transcripts/2026/168-stop-building-ai-agents-build-ai-employees-instead-live-demo-pedro-franceschi.md) | Pedro Franceschi | 2026-09-13 |
+| 180 | [Grok Bot Just Got a Massive Upgrade (It’s Scary Good)](../transcripts/2026/180-grok-bot-just-got-a-massive-upgrade-its-scary-good.md) | Peter Yang | 2026-10-12 |

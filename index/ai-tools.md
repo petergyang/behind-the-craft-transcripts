@@ -1,6 +1,6 @@
 # AI Tools
 
-75 episodes
+76 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -79,3 +79,4 @@
 | 177 | [How to Use AI to Survive (and Even Enjoy) Meetings | Sam Stephenson](../transcripts/2026/177-how-to-use-ai-to-survive-and-even-enjoy-meetings-sam-stephenson.md) | Sam Stephenson | 2026-10-04 |
 | 178 | [Build an AI Language Tutor You Can Talk To (6 Steps)](../transcripts/2026/178-build-an-ai-language-tutor-you-can-talk-to-6-steps.md) | Peter Yang | 2026-10-05 |
 | 179 | [The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Ras Mic](../transcripts/2026/179-the-4-step-agentic-engineering-workflow-i-use-to-ship-real-apps-ras-mic.md) | Ras Mic | 2026-10-11 |
+| 181 | [I Tested Gemini 4 vs Opus 5.5 vs GPT-6 Astra vs Muse Wonder (5 Use Cases)](../transcripts/2026/181-i-tested-gemini-4-vs-opus-5-5-vs-gpt-6-astra-vs-muse-wonder-5-use-cases.md) | Peter Yang | 2026-10-13 |

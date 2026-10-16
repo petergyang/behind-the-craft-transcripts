@@ -1,6 +1,6 @@
 # Execution
 
-73 episodes
+75 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -77,3 +77,5 @@
 | 175 | [Sonnet 5.5 is Here! It's Insane at Making Videos (7 Incredible Examples)](../transcripts/2026/175-sonnet-5-5-is-here-its-insane-at-making-videos-7-incredible-examples.md) | Peter Yang | 2026-09-28 |
 | 176 | [ChatGPT's NEW Dots: Everything You Need To Know](../transcripts/2026/176-chatgpts-new-dots-everything-you-need-to-know.md) | Peter Yang | 2026-09-29 |
 | 178 | [Build an AI Language Tutor You Can Talk To (6 Steps)](../transcripts/2026/178-build-an-ai-language-tutor-you-can-talk-to-6-steps.md) | Peter Yang | 2026-10-05 |
+| 180 | [Grok Bot Just Got a Massive Upgrade (It’s Scary Good)](../transcripts/2026/180-grok-bot-just-got-a-massive-upgrade-its-scary-good.md) | Peter Yang | 2026-10-12 |
+| 181 | [I Tested Gemini 4 vs Opus 5.5 vs GPT-6 Astra vs Muse Wonder (5 Use Cases)](../transcripts/2026/181-i-tested-gemini-4-vs-opus-5-5-vs-gpt-6-astra-vs-muse-wonder-5-use-cases.md) | Peter Yang | 2026-10-13 |

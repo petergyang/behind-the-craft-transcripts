@@ -1,6 +1,6 @@
 # Design
 
-39 episodes
+40 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -43,3 +43,4 @@
 | 172 | [How to Save Money Now with ChatGPT Finances (6 Real Use Cases) | Ethan Bloch](../transcripts/2026/172-how-to-save-money-now-with-chatgpt-finances-6-real-use-cases-ethan-bloch.md) | Ethan Bloch | 2026-09-20 |
 | 173 | [Claude Opus 5.5 is Here! Is Claude Finally Back? (5 Use Cases Tested)](../transcripts/2026/173-claude-opus-5-5-is-here-is-claude-finally-back-5-use-cases-tested.md) | Peter Yang | 2026-09-22 |
 | 177 | [How to Use AI to Survive (and Even Enjoy) Meetings | Sam Stephenson](../transcripts/2026/177-how-to-use-ai-to-survive-and-even-enjoy-meetings-sam-stephenson.md) | Sam Stephenson | 2026-10-04 |
+| 181 | [I Tested Gemini 4 vs Opus 5.5 vs GPT-6 Astra vs Muse Wonder (5 Use Cases)](../transcripts/2026/181-i-tested-gemini-4-vs-opus-5-5-vs-gpt-6-astra-vs-muse-wonder-5-use-cases.md) | Peter Yang | 2026-10-13 |
