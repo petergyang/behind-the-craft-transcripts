@@ -1,6 +1,6 @@
 # Startups
 
-57 episodes
+58 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -61,3 +61,4 @@
 | 166 | [GPT 6 Astra is the Best Model for Building Games (4 Real Examples)](../transcripts/2026/166-gpt-6-astra-is-the-best-model-for-building-games-4-real-examples.md) | Peter Yang | 2026-09-05 |
 | 167 | [AI Makes Cheating Easy. Here’s How It Can Make Kids Smarter Instead | Sue Khim](../transcripts/2026/167-ai-makes-cheating-easy-heres-how-it-can-make-kids-smarter-instead-sue-khim.md) | Sue Khim | 2026-09-06 |
 | 177 | [How to Use AI to Survive (and Even Enjoy) Meetings | Sam Stephenson](../transcripts/2026/177-how-to-use-ai-to-survive-and-even-enjoy-meetings-sam-stephenson.md) | Sam Stephenson | 2026-10-04 |
+| 182 | [We Built an AI CFO to Help You Grow Your Net Worth | Anthony Pompliano](../transcripts/2026/182-we-built-an-ai-cfo-to-help-you-grow-your-net-worth-anthony-pompliano.md) | Anthony Pompliano | 2026-10-18 |

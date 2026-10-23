@@ -1,6 +1,6 @@
 # Execution
 
-75 episodes
+78 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -79,3 +79,6 @@
 | 178 | [Build an AI Language Tutor You Can Talk To (6 Steps)](../transcripts/2026/178-build-an-ai-language-tutor-you-can-talk-to-6-steps.md) | Peter Yang | 2026-10-05 |
 | 180 | [Grok Bot Just Got a Massive Upgrade (It’s Scary Good)](../transcripts/2026/180-grok-bot-just-got-a-massive-upgrade-its-scary-good.md) | Peter Yang | 2026-10-12 |
 | 181 | [I Tested Gemini 4 vs Opus 5.5 vs GPT-6 Astra vs Muse Wonder (5 Use Cases)](../transcripts/2026/181-i-tested-gemini-4-vs-opus-5-5-vs-gpt-6-astra-vs-muse-wonder-5-use-cases.md) | Peter Yang | 2026-10-13 |
+| 183 | [How to Edit YouTube Shorts With AI (Free Skill)](../transcripts/2026/183-how-to-edit-youtube-shorts-with-ai-free-skill.md) | Peter Yang | 2026-10-21 |
+| 184 | [Claude Duet Is Here! (Better than Grok Bot?)](../transcripts/2026/184-claude-duet-is-here-better-than-grok-bot.md) | Peter Yang | 2026-10-21 |
+| 185 | [The Internet Is Being Hacked. 6 Things You Need To Do Now](../transcripts/2026/185-the-internet-is-being-hacked-6-things-you-need-to-do-now.md) | Peter Yang | 2026-10-22 |

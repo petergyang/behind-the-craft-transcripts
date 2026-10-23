@@ -1,6 +1,6 @@
 # Leadership
 
-116 episodes
+118 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -120,3 +120,5 @@
 | 175 | [Sonnet 5.5 is Here! It's Insane at Making Videos (7 Incredible Examples)](../transcripts/2026/175-sonnet-5-5-is-here-its-insane-at-making-videos-7-incredible-examples.md) | Peter Yang | 2026-09-28 |
 | 179 | [The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Ras Mic](../transcripts/2026/179-the-4-step-agentic-engineering-workflow-i-use-to-ship-real-apps-ras-mic.md) | Ras Mic | 2026-10-11 |
 | 180 | [Grok Bot Just Got a Massive Upgrade (It’s Scary Good)](../transcripts/2026/180-grok-bot-just-got-a-massive-upgrade-its-scary-good.md) | Peter Yang | 2026-10-12 |
+| 182 | [We Built an AI CFO to Help You Grow Your Net Worth | Anthony Pompliano](../transcripts/2026/182-we-built-an-ai-cfo-to-help-you-grow-your-net-worth-anthony-pompliano.md) | Anthony Pompliano | 2026-10-18 |
+| 185 | [The Internet Is Being Hacked. 6 Things You Need To Do Now](../transcripts/2026/185-the-internet-is-being-hacked-6-things-you-need-to-do-now.md) | Peter Yang | 2026-10-22 |

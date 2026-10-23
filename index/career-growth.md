@@ -1,6 +1,6 @@
 # Career Growth
 
-20 episodes
+21 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -24,3 +24,4 @@
 | 170 | [How I Automated 90% of My Content Workflow (With ChatGPT + Riverside)](../transcripts/2026/170-how-i-automated-90-of-my-content-workflow-with-chatgpt-riverside.md) | Peter Yang | 2026-09-16 |
 | 171 | [Meta’s Muse AI Agent Saved Me $800+ a Year on My Bills (10 Real Use Cases)](../transcripts/2026/171-metas-muse-ai-agent-saved-me-800-a-year-on-my-bills-10-real-use-cases.md) | Peter Yang | 2026-09-18 |
 | 175 | [Sonnet 5.5 is Here! It's Insane at Making Videos (7 Incredible Examples)](../transcripts/2026/175-sonnet-5-5-is-here-its-insane-at-making-videos-7-incredible-examples.md) | Peter Yang | 2026-09-28 |
+| 182 | [We Built an AI CFO to Help You Grow Your Net Worth | Anthony Pompliano](../transcripts/2026/182-we-built-an-ai-cfo-to-help-you-grow-your-net-worth-anthony-pompliano.md) | Anthony Pompliano | 2026-10-18 |

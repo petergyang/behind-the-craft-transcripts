@@ -1,6 +1,6 @@
 # AI Tools
 
-76 episodes
+77 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -80,3 +80,4 @@
 | 178 | [Build an AI Language Tutor You Can Talk To (6 Steps)](../transcripts/2026/178-build-an-ai-language-tutor-you-can-talk-to-6-steps.md) | Peter Yang | 2026-10-05 |
 | 179 | [The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Ras Mic](../transcripts/2026/179-the-4-step-agentic-engineering-workflow-i-use-to-ship-real-apps-ras-mic.md) | Ras Mic | 2026-10-11 |
 | 181 | [I Tested Gemini 4 vs Opus 5.5 vs GPT-6 Astra vs Muse Wonder (5 Use Cases)](../transcripts/2026/181-i-tested-gemini-4-vs-opus-5-5-vs-gpt-6-astra-vs-muse-wonder-5-use-cases.md) | Peter Yang | 2026-10-13 |
+| 183 | [How to Edit YouTube Shorts With AI (Free Skill)](../transcripts/2026/183-how-to-edit-youtube-shorts-with-ai-free-skill.md) | Peter Yang | 2026-10-21 |
