@@ -1,6 +1,6 @@
 # Storytelling
 
-35 episodes
+36 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -39,3 +39,4 @@
 | 181 | [I Tested Gemini 4 vs Opus 5.5 vs GPT-6 Astra vs Muse Wonder (5 Use Cases)](../transcripts/2026/181-i-tested-gemini-4-vs-opus-5-5-vs-gpt-6-astra-vs-muse-wonder-5-use-cases.md) | Peter Yang | 2026-10-13 |
 | 183 | [How to Edit YouTube Shorts With AI (Free Skill)](../transcripts/2026/183-how-to-edit-youtube-shorts-with-ai-free-skill.md) | Peter Yang | 2026-10-21 |
 | 184 | [Claude Duet Is Here! (Better than Grok Bot?)](../transcripts/2026/184-claude-duet-is-here-better-than-grok-bot.md) | Peter Yang | 2026-10-21 |
+| 186 | [How to Make Amazing Videos with Claude and HyperFrames | Jake Moran](../transcripts/2026/186-how-to-make-amazing-videos-with-claude-and-hyperframes-jake-moran.md) | Jake Moran | 2026-10-25 |

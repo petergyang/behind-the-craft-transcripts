@@ -1,6 +1,6 @@
 # Leadership
 
-118 episodes
+120 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -122,3 +122,5 @@
 | 180 | [Grok Bot Just Got a Massive Upgrade (It’s Scary Good)](../transcripts/2026/180-grok-bot-just-got-a-massive-upgrade-its-scary-good.md) | Peter Yang | 2026-10-12 |
 | 182 | [We Built an AI CFO to Help You Grow Your Net Worth | Anthony Pompliano](../transcripts/2026/182-we-built-an-ai-cfo-to-help-you-grow-your-net-worth-anthony-pompliano.md) | Anthony Pompliano | 2026-10-18 |
 | 185 | [The Internet Is Being Hacked. 6 Things You Need To Do Now](../transcripts/2026/185-the-internet-is-being-hacked-6-things-you-need-to-do-now.md) | Peter Yang | 2026-10-22 |
+| 186 | [How to Make Amazing Videos with Claude and HyperFrames | Jake Moran](../transcripts/2026/186-how-to-make-amazing-videos-with-claude-and-hyperframes-jake-moran.md) | Jake Moran | 2026-10-25 |
+| 187 | [Google Genie 4 + Gemini Is Insane: Let’s Build 5 AI Worlds Live](../transcripts/2026/187-google-genie-4-gemini-is-insane-lets-build-5-ai-worlds-live.md) | Peter Yang | 2026-10-28 |

@@ -1,6 +1,6 @@
 # AI Tools
 
-77 episodes
+79 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -81,3 +81,5 @@
 | 179 | [The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Ras Mic](../transcripts/2026/179-the-4-step-agentic-engineering-workflow-i-use-to-ship-real-apps-ras-mic.md) | Ras Mic | 2026-10-11 |
 | 181 | [I Tested Gemini 4 vs Opus 5.5 vs GPT-6 Astra vs Muse Wonder (5 Use Cases)](../transcripts/2026/181-i-tested-gemini-4-vs-opus-5-5-vs-gpt-6-astra-vs-muse-wonder-5-use-cases.md) | Peter Yang | 2026-10-13 |
 | 183 | [How to Edit YouTube Shorts With AI (Free Skill)](../transcripts/2026/183-how-to-edit-youtube-shorts-with-ai-free-skill.md) | Peter Yang | 2026-10-21 |
+| 186 | [How to Make Amazing Videos with Claude and HyperFrames | Jake Moran](../transcripts/2026/186-how-to-make-amazing-videos-with-claude-and-hyperframes-jake-moran.md) | Jake Moran | 2026-10-25 |
+| 187 | [Google Genie 4 + Gemini Is Insane: Let’s Build 5 AI Worlds Live](../transcripts/2026/187-google-genie-4-gemini-is-insane-lets-build-5-ai-worlds-live.md) | Peter Yang | 2026-10-28 |

@@ -1,6 +1,6 @@
 # AI
 
-156 episodes
+158 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -160,3 +160,5 @@
 | 183 | [How to Edit YouTube Shorts With AI (Free Skill)](../transcripts/2026/183-how-to-edit-youtube-shorts-with-ai-free-skill.md) | Peter Yang | 2026-10-21 |
 | 184 | [Claude Duet Is Here! (Better than Grok Bot?)](../transcripts/2026/184-claude-duet-is-here-better-than-grok-bot.md) | Peter Yang | 2026-10-21 |
 | 185 | [The Internet Is Being Hacked. 6 Things You Need To Do Now](../transcripts/2026/185-the-internet-is-being-hacked-6-things-you-need-to-do-now.md) | Peter Yang | 2026-10-22 |
+| 186 | [How to Make Amazing Videos with Claude and HyperFrames | Jake Moran](../transcripts/2026/186-how-to-make-amazing-videos-with-claude-and-hyperframes-jake-moran.md) | Jake Moran | 2026-10-25 |
+| 187 | [Google Genie 4 + Gemini Is Insane: Let’s Build 5 AI Worlds Live](../transcripts/2026/187-google-genie-4-gemini-is-insane-lets-build-5-ai-worlds-live.md) | Peter Yang | 2026-10-28 |

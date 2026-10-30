@@ -1,6 +1,6 @@
 # Gaming
 
-7 episodes
+8 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -11,3 +11,4 @@
 | 154 | [How I Use ChatGPT Work and GPT-5.6 to Do Everything (Beginner Tutorial)](../transcripts/2026/154-how-i-use-chatgpt-work-and-gpt-5-6-to-do-everything-beginner-tutorial.md) | Peter Yang | 2026-07-15 |
 | 157 | [Full Tutorial: From Idea to App with Claude Design and Claude Code in 25 Minutes](../transcripts/2026/157-full-tutorial-from-idea-to-app-with-claude-design-and-claude-code-in-25-minutes.md) | Peter Yang | 2026-07-29 |
 | 166 | [GPT 6 Astra is the Best Model for Building Games (4 Real Examples)](../transcripts/2026/166-gpt-6-astra-is-the-best-model-for-building-games-4-real-examples.md) | Peter Yang | 2026-09-05 |
+| 187 | [Google Genie 4 + Gemini Is Insane: Let’s Build 5 AI Worlds Live](../transcripts/2026/187-google-genie-4-gemini-is-insane-lets-build-5-ai-worlds-live.md) | Peter Yang | 2026-10-28 |
