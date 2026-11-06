@@ -1,6 +1,6 @@
 # AI
 
-158 episodes
+160 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -162,3 +162,5 @@
 | 185 | [The Internet Is Being Hacked. 6 Things You Need To Do Now](../transcripts/2026/185-the-internet-is-being-hacked-6-things-you-need-to-do-now.md) | Peter Yang | 2026-10-22 |
 | 186 | [How to Make Amazing Videos with Claude and HyperFrames | Jake Moran](../transcripts/2026/186-how-to-make-amazing-videos-with-claude-and-hyperframes-jake-moran.md) | Jake Moran | 2026-10-25 |
 | 187 | [Google Genie 4 + Gemini Is Insane: Let’s Build 5 AI Worlds Live](../transcripts/2026/187-google-genie-4-gemini-is-insane-lets-build-5-ai-worlds-live.md) | Peter Yang | 2026-10-28 |
+| 189 | [This New Grok Bot Feature Just Saved Me $500 a Year (Seriously)](../transcripts/2026/189-this-new-grok-bot-feature-just-saved-me-500-a-year-seriously.md) | Peter Yang | 2026-11-03 |
+| 190 | [My Mom Has Cancer Again. Here’s How I’m Using AI to Fight It](../transcripts/2026/190-my-mom-has-cancer-again-heres-how-im-using-ai-to-fight-it.md) | Peter Yang | 2026-11-04 |

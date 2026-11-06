@@ -1,6 +1,6 @@
 # Product Management
 
-86 episodes
+87 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -90,3 +90,4 @@
 | 172 | [How to Save Money Now with ChatGPT Finances (6 Real Use Cases) | Ethan Bloch](../transcripts/2026/172-how-to-save-money-now-with-chatgpt-finances-6-real-use-cases-ethan-bloch.md) | Ethan Bloch | 2026-09-20 |
 | 174 | [We Built Grok Bot. Here Are Our 14 Best Bots | Peng Zheng & Lauren Tan](../transcripts/2026/174-we-built-grok-bot-here-are-our-14-best-bots-peng-zheng-lauren-tan.md) | Peng Zheng & Lauren Tan | 2026-09-27 |
 | 176 | [ChatGPT's NEW Dots: Everything You Need To Know](../transcripts/2026/176-chatgpts-new-dots-everything-you-need-to-know.md) | Peter Yang | 2026-09-29 |
+| 190 | [My Mom Has Cancer Again. Here’s How I’m Using AI to Fight It](../transcripts/2026/190-my-mom-has-cancer-again-heres-how-im-using-ai-to-fight-it.md) | Peter Yang | 2026-11-04 |

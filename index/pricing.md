@@ -1,6 +1,6 @@
 # Pricing
 
-16 episodes
+17 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -20,3 +20,4 @@
 | 176 | [ChatGPT's NEW Dots: Everything You Need To Know](../transcripts/2026/176-chatgpts-new-dots-everything-you-need-to-know.md) | Peter Yang | 2026-09-29 |
 | 180 | [Grok Bot Just Got a Massive Upgrade (It’s Scary Good)](../transcripts/2026/180-grok-bot-just-got-a-massive-upgrade-its-scary-good.md) | Peter Yang | 2026-10-12 |
 | 184 | [Claude Duet Is Here! (Better than Grok Bot?)](../transcripts/2026/184-claude-duet-is-here-better-than-grok-bot.md) | Peter Yang | 2026-10-21 |
+| 189 | [This New Grok Bot Feature Just Saved Me $500 a Year (Seriously)](../transcripts/2026/189-this-new-grok-bot-feature-just-saved-me-500-a-year-seriously.md) | Peter Yang | 2026-11-03 |
