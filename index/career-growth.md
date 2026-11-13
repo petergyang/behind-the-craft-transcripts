@@ -1,6 +1,6 @@
 # Career Growth
 
-22 episodes
+23 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -26,3 +26,4 @@
 | 175 | [Sonnet 5.5 is Here! It's Insane at Making Videos (7 Incredible Examples)](../transcripts/2026/175-sonnet-5-5-is-here-its-insane-at-making-videos-7-incredible-examples.md) | Peter Yang | 2026-09-28 |
 | 182 | [We Built an AI CFO to Help You Grow Your Net Worth | Anthony Pompliano](../transcripts/2026/182-we-built-an-ai-cfo-to-help-you-grow-your-net-worth-anthony-pompliano.md) | Anthony Pompliano | 2026-10-18 |
 | 189 | [This New Grok Bot Feature Just Saved Me $500 a Year (Seriously)](../transcripts/2026/189-this-new-grok-bot-feature-just-saved-me-500-a-year-seriously.md) | Peter Yang | 2026-11-03 |
+| 192 | [I Tested Fable 5.2 vs Opus 5.5 (Full Breakdown)](../transcripts/2026/192-i-tested-fable-5-2-vs-opus-5-5-full-breakdown.md) | Peter Yang | 2026-11-09 |

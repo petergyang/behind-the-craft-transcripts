@@ -1,6 +1,6 @@
 # Culture
 
-47 episodes
+48 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -51,3 +51,4 @@
 | 182 | [We Built an AI CFO to Help You Grow Your Net Worth | Anthony Pompliano](../transcripts/2026/182-we-built-an-ai-cfo-to-help-you-grow-your-net-worth-anthony-pompliano.md) | Anthony Pompliano | 2026-10-18 |
 | 184 | [Claude Duet Is Here! (Better than Grok Bot?)](../transcripts/2026/184-claude-duet-is-here-better-than-grok-bot.md) | Peter Yang | 2026-10-21 |
 | 188 | [Gemini 4 Changed How Google Builds Products | Jaclyn Konzelmann](../transcripts/2026/188-gemini-4-changed-how-google-builds-products-jaclyn-konzelmann.md) | Jaclyn Konzelmann | 2026-11-01 |
+| 191 | [OpenAI VP: How AI Changed My Family’s Fight Against Cancer | Ashley Alexander](../transcripts/2026/191-openai-vp-how-ai-changed-my-familys-fight-against-cancer-ashley-alexander.md) | Ashley Alexander | 2026-11-08 |

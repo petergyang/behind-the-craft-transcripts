@@ -1,6 +1,6 @@
 # Execution
 
-80 episodes
+81 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -84,3 +84,4 @@
 | 185 | [The Internet Is Being Hacked. 6 Things You Need To Do Now](../transcripts/2026/185-the-internet-is-being-hacked-6-things-you-need-to-do-now.md) | Peter Yang | 2026-10-22 |
 | 186 | [How to Make Amazing Videos with Claude and HyperFrames | Jake Moran](../transcripts/2026/186-how-to-make-amazing-videos-with-claude-and-hyperframes-jake-moran.md) | Jake Moran | 2026-10-25 |
 | 188 | [Gemini 4 Changed How Google Builds Products | Jaclyn Konzelmann](../transcripts/2026/188-gemini-4-changed-how-google-builds-products-jaclyn-konzelmann.md) | Jaclyn Konzelmann | 2026-11-01 |
+| 191 | [OpenAI VP: How AI Changed My Family’s Fight Against Cancer | Ashley Alexander](../transcripts/2026/191-openai-vp-how-ai-changed-my-familys-fight-against-cancer-ashley-alexander.md) | Ashley Alexander | 2026-11-08 |

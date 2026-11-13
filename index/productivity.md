@@ -1,6 +1,6 @@
 # Productivity
 
-12 episodes
+14 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -16,3 +16,5 @@
 | 154 | [How I Use ChatGPT Work and GPT-5.6 to Do Everything (Beginner Tutorial)](../transcripts/2026/154-how-i-use-chatgpt-work-and-gpt-5-6-to-do-everything-beginner-tutorial.md) | Peter Yang | 2026-07-15 |
 | 168 | [Stop Building AI Agents. Build AI Employees Instead (Live Demo) | Pedro Franceschi](../transcripts/2026/168-stop-building-ai-agents-build-ai-employees-instead-live-demo-pedro-franceschi.md) | Pedro Franceschi | 2026-09-13 |
 | 170 | [How I Automated 90% of My Content Workflow (With ChatGPT + Riverside)](../transcripts/2026/170-how-i-automated-90-of-my-content-workflow-with-chatgpt-riverside.md) | Peter Yang | 2026-09-16 |
+| 192 | [I Tested Fable 5.2 vs Opus 5.5 (Full Breakdown)](../transcripts/2026/192-i-tested-fable-5-2-vs-opus-5-5-full-breakdown.md) | Peter Yang | 2026-11-09 |
+| 193 | [When To Use Fable 5.2 or Opus in Claude Code (Full Tutorial)](../transcripts/2026/193-when-to-use-fable-5-2-or-opus-in-claude-code-full-tutorial.md) | Peter Yang | 2026-11-11 |

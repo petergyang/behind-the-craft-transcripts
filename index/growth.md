@@ -1,6 +1,6 @@
 # Growth
 
-15 episodes
+16 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -19,3 +19,4 @@
 | 169 | [11 Grok Bots I Use Every Day (After 100+ Hours)](../transcripts/2026/169-11-grok-bots-i-use-every-day-after-100-hours.md) | Peter Yang | 2026-09-14 |
 | 170 | [How I Automated 90% of My Content Workflow (With ChatGPT + Riverside)](../transcripts/2026/170-how-i-automated-90-of-my-content-workflow-with-chatgpt-riverside.md) | Peter Yang | 2026-09-16 |
 | 189 | [This New Grok Bot Feature Just Saved Me $500 a Year (Seriously)](../transcripts/2026/189-this-new-grok-bot-feature-just-saved-me-500-a-year-seriously.md) | Peter Yang | 2026-11-03 |
+| 192 | [I Tested Fable 5.2 vs Opus 5.5 (Full Breakdown)](../transcripts/2026/192-i-tested-fable-5-2-vs-opus-5-5-full-breakdown.md) | Peter Yang | 2026-11-09 |

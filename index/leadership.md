@@ -1,6 +1,6 @@
 # Leadership
 
-122 episodes
+124 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -126,3 +126,5 @@
 | 187 | [Google Genie 4 + Gemini Is Insane: Let’s Build 5 AI Worlds Live](../transcripts/2026/187-google-genie-4-gemini-is-insane-lets-build-5-ai-worlds-live.md) | Peter Yang | 2026-10-28 |
 | 189 | [This New Grok Bot Feature Just Saved Me $500 a Year (Seriously)](../transcripts/2026/189-this-new-grok-bot-feature-just-saved-me-500-a-year-seriously.md) | Peter Yang | 2026-11-03 |
 | 190 | [My Mom Has Cancer Again. Here’s How I’m Using AI to Fight It](../transcripts/2026/190-my-mom-has-cancer-again-heres-how-im-using-ai-to-fight-it.md) | Peter Yang | 2026-11-04 |
+| 191 | [OpenAI VP: How AI Changed My Family’s Fight Against Cancer | Ashley Alexander](../transcripts/2026/191-openai-vp-how-ai-changed-my-familys-fight-against-cancer-ashley-alexander.md) | Ashley Alexander | 2026-11-08 |
+| 193 | [When To Use Fable 5.2 or Opus in Claude Code (Full Tutorial)](../transcripts/2026/193-when-to-use-fable-5-2-or-opus-in-claude-code-full-tutorial.md) | Peter Yang | 2026-11-11 |

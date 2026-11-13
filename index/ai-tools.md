@@ -1,6 +1,6 @@
 # AI Tools
 
-80 episodes
+82 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -84,3 +84,5 @@
 | 186 | [How to Make Amazing Videos with Claude and HyperFrames | Jake Moran](../transcripts/2026/186-how-to-make-amazing-videos-with-claude-and-hyperframes-jake-moran.md) | Jake Moran | 2026-10-25 |
 | 187 | [Google Genie 4 + Gemini Is Insane: Let’s Build 5 AI Worlds Live](../transcripts/2026/187-google-genie-4-gemini-is-insane-lets-build-5-ai-worlds-live.md) | Peter Yang | 2026-10-28 |
 | 188 | [Gemini 4 Changed How Google Builds Products | Jaclyn Konzelmann](../transcripts/2026/188-gemini-4-changed-how-google-builds-products-jaclyn-konzelmann.md) | Jaclyn Konzelmann | 2026-11-01 |
+| 192 | [I Tested Fable 5.2 vs Opus 5.5 (Full Breakdown)](../transcripts/2026/192-i-tested-fable-5-2-vs-opus-5-5-full-breakdown.md) | Peter Yang | 2026-11-09 |
+| 193 | [When To Use Fable 5.2 or Opus in Claude Code (Full Tutorial)](../transcripts/2026/193-when-to-use-fable-5-2-or-opus-in-claude-code-full-tutorial.md) | Peter Yang | 2026-11-11 |

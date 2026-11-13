@@ -4,24 +4,24 @@ Browse Behind the Craft episodes by topic.
 
 | Topic | Episodes |
 |-------|----------|
-| [AI](ai.md) | 160 |
-| [AI Tools](ai-tools.md) | 80 |
+| [AI](ai.md) | 163 |
+| [AI Tools](ai-tools.md) | 82 |
 | [Big Tech](big-tech.md) | 34 |
-| [Career Growth](career-growth.md) | 22 |
+| [Career Growth](career-growth.md) | 23 |
 | [Coding](coding.md) | 71 |
-| [Culture](culture.md) | 47 |
+| [Culture](culture.md) | 48 |
 | [Design](design.md) | 41 |
 | [Entrepreneurship](entrepreneurship.md) | 5 |
-| [Execution](execution.md) | 80 |
+| [Execution](execution.md) | 81 |
 | [Gaming](gaming.md) | 8 |
-| [Growth](growth.md) | 15 |
-| [Innovation](innovation.md) | 7 |
-| [Leadership](leadership.md) | 122 |
+| [Growth](growth.md) | 16 |
+| [Innovation](innovation.md) | 8 |
+| [Leadership](leadership.md) | 124 |
 | [Metrics](metrics.md) | 14 |
 | [Platform](platform.md) | 5 |
 | [Pricing](pricing.md) | 17 |
-| [Product Management](product-management.md) | 87 |
-| [Productivity](productivity.md) | 12 |
+| [Product Management](product-management.md) | 88 |
+| [Productivity](productivity.md) | 14 |
 | [Startups](startups.md) | 59 |
 | [Storytelling](storytelling.md) | 36 |
 | [Strategy](strategy.md) | 5 |
