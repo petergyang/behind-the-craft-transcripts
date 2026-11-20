@@ -1,6 +1,6 @@
 # Design
 
-41 episodes
+43 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -45,3 +45,5 @@
 | 177 | [How to Use AI to Survive (and Even Enjoy) Meetings | Sam Stephenson](../transcripts/2026/177-how-to-use-ai-to-survive-and-even-enjoy-meetings-sam-stephenson.md) | Sam Stephenson | 2026-10-04 |
 | 181 | [I Tested Gemini 4 vs Opus 5.5 vs GPT-6 Astra vs Muse Wonder (5 Use Cases)](../transcripts/2026/181-i-tested-gemini-4-vs-opus-5-5-vs-gpt-6-astra-vs-muse-wonder-5-use-cases.md) | Peter Yang | 2026-10-13 |
 | 188 | [Gemini 4 Changed How Google Builds Products | Jaclyn Konzelmann](../transcripts/2026/188-gemini-4-changed-how-google-builds-products-jaclyn-konzelmann.md) | Jaclyn Konzelmann | 2026-11-01 |
+| 194 | [Full Tutorial: How to Fix AI Slop with Claude Design in 40 Minutes | Nate Parrott](../transcripts/2026/194-full-tutorial-how-to-fix-ai-slop-with-claude-design-in-40-minutes-nate-parrott.md) | Nate Parrott | 2026-11-15 |
+| 195 | [I Tested Astra 6.2 vs Fable 5.2 vs Gemini 4 (Full Breakdown)](../transcripts/2026/195-i-tested-astra-6-2-vs-fable-5-2-vs-gemini-4-full-breakdown.md) | Peter Yang | 2026-11-18 |

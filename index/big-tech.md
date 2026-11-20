@@ -1,6 +1,6 @@
 # Big Tech
 
-34 episodes
+35 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -38,3 +38,4 @@
 | 178 | [Build an AI Language Tutor You Can Talk To (6 Steps)](../transcripts/2026/178-build-an-ai-language-tutor-you-can-talk-to-6-steps.md) | Peter Yang | 2026-10-05 |
 | 183 | [How to Edit YouTube Shorts With AI (Free Skill)](../transcripts/2026/183-how-to-edit-youtube-shorts-with-ai-free-skill.md) | Peter Yang | 2026-10-21 |
 | 188 | [Gemini 4 Changed How Google Builds Products | Jaclyn Konzelmann](../transcripts/2026/188-gemini-4-changed-how-google-builds-products-jaclyn-konzelmann.md) | Jaclyn Konzelmann | 2026-11-01 |
+| 196 | [I Tested Gemini 4 Neon vs Claude Opus 5.5 (Full Breakdown)](../transcripts/2026/196-i-tested-gemini-4-neon-vs-claude-opus-5-5-full-breakdown.md) | Peter Yang | 2026-11-19 |

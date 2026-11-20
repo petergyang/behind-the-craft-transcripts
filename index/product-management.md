@@ -1,6 +1,6 @@
 # Product Management
 
-88 episodes
+89 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -92,3 +92,4 @@
 | 176 | [ChatGPT's NEW Dots: Everything You Need To Know](../transcripts/2026/176-chatgpts-new-dots-everything-you-need-to-know.md) | Peter Yang | 2026-09-29 |
 | 190 | [My Mom Has Cancer Again. Here’s How I’m Using AI to Fight It](../transcripts/2026/190-my-mom-has-cancer-again-heres-how-im-using-ai-to-fight-it.md) | Peter Yang | 2026-11-04 |
 | 191 | [OpenAI VP: How AI Changed My Family’s Fight Against Cancer | Ashley Alexander](../transcripts/2026/191-openai-vp-how-ai-changed-my-familys-fight-against-cancer-ashley-alexander.md) | Ashley Alexander | 2026-11-08 |
+| 194 | [Full Tutorial: How to Fix AI Slop with Claude Design in 40 Minutes | Nate Parrott](../transcripts/2026/194-full-tutorial-how-to-fix-ai-slop-with-claude-design-in-40-minutes-nate-parrott.md) | Nate Parrott | 2026-11-15 |

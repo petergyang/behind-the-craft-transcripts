@@ -1,6 +1,6 @@
 # Execution
 
-81 episodes
+82 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -85,3 +85,4 @@
 | 186 | [How to Make Amazing Videos with Claude and HyperFrames | Jake Moran](../transcripts/2026/186-how-to-make-amazing-videos-with-claude-and-hyperframes-jake-moran.md) | Jake Moran | 2026-10-25 |
 | 188 | [Gemini 4 Changed How Google Builds Products | Jaclyn Konzelmann](../transcripts/2026/188-gemini-4-changed-how-google-builds-products-jaclyn-konzelmann.md) | Jaclyn Konzelmann | 2026-11-01 |
 | 191 | [OpenAI VP: How AI Changed My Family’s Fight Against Cancer | Ashley Alexander](../transcripts/2026/191-openai-vp-how-ai-changed-my-familys-fight-against-cancer-ashley-alexander.md) | Ashley Alexander | 2026-11-08 |
+| 194 | [Full Tutorial: How to Fix AI Slop with Claude Design in 40 Minutes | Nate Parrott](../transcripts/2026/194-full-tutorial-how-to-fix-ai-slop-with-claude-design-in-40-minutes-nate-parrott.md) | Nate Parrott | 2026-11-15 |

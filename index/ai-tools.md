@@ -1,6 +1,6 @@
 # AI Tools
 
-82 episodes
+85 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -86,3 +86,6 @@
 | 188 | [Gemini 4 Changed How Google Builds Products | Jaclyn Konzelmann](../transcripts/2026/188-gemini-4-changed-how-google-builds-products-jaclyn-konzelmann.md) | Jaclyn Konzelmann | 2026-11-01 |
 | 192 | [I Tested Fable 5.2 vs Opus 5.5 (Full Breakdown)](../transcripts/2026/192-i-tested-fable-5-2-vs-opus-5-5-full-breakdown.md) | Peter Yang | 2026-11-09 |
 | 193 | [When To Use Fable 5.2 or Opus in Claude Code (Full Tutorial)](../transcripts/2026/193-when-to-use-fable-5-2-or-opus-in-claude-code-full-tutorial.md) | Peter Yang | 2026-11-11 |
+| 194 | [Full Tutorial: How to Fix AI Slop with Claude Design in 40 Minutes | Nate Parrott](../transcripts/2026/194-full-tutorial-how-to-fix-ai-slop-with-claude-design-in-40-minutes-nate-parrott.md) | Nate Parrott | 2026-11-15 |
+| 195 | [I Tested Astra 6.2 vs Fable 5.2 vs Gemini 4 (Full Breakdown)](../transcripts/2026/195-i-tested-astra-6-2-vs-fable-5-2-vs-gemini-4-full-breakdown.md) | Peter Yang | 2026-11-18 |
+| 196 | [I Tested Gemini 4 Neon vs Claude Opus 5.5 (Full Breakdown)](../transcripts/2026/196-i-tested-gemini-4-neon-vs-claude-opus-5-5-full-breakdown.md) | Peter Yang | 2026-11-19 |

@@ -1,6 +1,6 @@
 # Metrics
 
-14 episodes
+15 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -18,3 +18,4 @@
 | 165 | [Instinct vs Grok Bot vs ChatGPT vs Hermes: Which AI Agent Can You Trust?](../transcripts/2026/165-instinct-vs-grok-bot-vs-chatgpt-vs-hermes-which-ai-agent-can-you-trust.md) | Peter Yang | 2026-09-02 |
 | 168 | [Stop Building AI Agents. Build AI Employees Instead (Live Demo) | Pedro Franceschi](../transcripts/2026/168-stop-building-ai-agents-build-ai-employees-instead-live-demo-pedro-franceschi.md) | Pedro Franceschi | 2026-09-13 |
 | 180 | [Grok Bot Just Got a Massive Upgrade (It’s Scary Good)](../transcripts/2026/180-grok-bot-just-got-a-massive-upgrade-its-scary-good.md) | Peter Yang | 2026-10-12 |
+| 195 | [I Tested Astra 6.2 vs Fable 5.2 vs Gemini 4 (Full Breakdown)](../transcripts/2026/195-i-tested-astra-6-2-vs-fable-5-2-vs-gemini-4-full-breakdown.md) | Peter Yang | 2026-11-18 |

@@ -1,6 +1,6 @@
 # Coding
 
-71 episodes
+72 episodes
 
 | # | Episode | Guest | Date |
 |---|---------|-------|------|
@@ -75,3 +75,4 @@
 | 167 | [AI Makes Cheating Easy. Here’s How It Can Make Kids Smarter Instead | Sue Khim](../transcripts/2026/167-ai-makes-cheating-easy-heres-how-it-can-make-kids-smarter-instead-sue-khim.md) | Sue Khim | 2026-09-06 |
 | 169 | [11 Grok Bots I Use Every Day (After 100+ Hours)](../transcripts/2026/169-11-grok-bots-i-use-every-day-after-100-hours.md) | Peter Yang | 2026-09-14 |
 | 179 | [The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Ras Mic](../transcripts/2026/179-the-4-step-agentic-engineering-workflow-i-use-to-ship-real-apps-ras-mic.md) | Ras Mic | 2026-10-11 |
+| 196 | [I Tested Gemini 4 Neon vs Claude Opus 5.5 (Full Breakdown)](../transcripts/2026/196-i-tested-gemini-4-neon-vs-claude-opus-5-5-full-breakdown.md) | Peter Yang | 2026-11-19 |
